@@ -1,0 +1,1201 @@
+FeedbackID,AppointmentID,Rating,RecommendHospital,Comments
+1,204,4.0,No,Friendly staff
+2,1844,3.0,Yes,Very satisfied
+3,403,4.0,Yes,Needs improvement
+4,963,,No,
+5,742,4.0,No,Great service
+6,865,,Yes,Friendly staff
+7,1238,3.0,Yes,
+8,1997,1.0,No,Needs improvement
+9,1657,1.0,No,Friendly staff
+10,1758,3.0,Yes,
+11,1128,4.0,Yes,Great service
+12,1712,4.0,Yes,Long wait
+13,614,,Yes,Great service
+14,1807,2.0,No,
+15,449,4.0,No,Friendly staff
+16,1581,3.0,Yes,Needs improvement
+17,345,2.0,No,Friendly staff
+18,878,3.0,Yes,
+19,1688,4.0,No,Needs improvement
+20,1168,1.0,Yes,Friendly staff
+21,1791,3.0,No,Very satisfied
+22,462,4.0,Yes,Needs improvement
+23,1146,5.0,Yes,Friendly staff
+24,1410,4.0,Yes,Long wait
+25,1057,4.0,No,Great service
+26,1338,1.0,Yes,
+27,695,2.0,No,Very satisfied
+28,1814,3.0,No,Very satisfied
+29,1933,3.0,Yes,Great service
+30,801,,No,Long wait
+31,658,5.0,Yes,Great service
+32,1192,2.0,No,
+33,160,3.0,No,Great service
+34,625,4.0,No,Very satisfied
+35,193,3.0,Yes,Needs improvement
+36,1035,5.0,No,Friendly staff
+37,435,4.0,Yes,Needs improvement
+38,1491,4.0,Yes,
+39,1542,4.0,No,Needs improvement
+40,526,4.0,No,Long wait
+41,1392,4.0,Yes,Needs improvement
+42,1134,1.0,No,Very satisfied
+43,609,,Yes,
+44,764,5.0,Yes,Great service
+45,306,4.0,No,Very satisfied
+46,342,5.0,Yes,Great service
+47,1592,5.0,No,Friendly staff
+48,84,,No,Very satisfied
+49,1723,5.0,No,Great service
+50,595,2.0,No,Needs improvement
+51,1542,4.0,Yes,Friendly staff
+52,1843,1.0,Yes,Very satisfied
+53,508,4.0,No,Needs improvement
+54,1213,5.0,Yes,Long wait
+55,56,4.0,No,Very satisfied
+56,902,,Yes,Great service
+57,1675,4.0,No,Very satisfied
+58,1621,1.0,Yes,Long wait
+59,1506,2.0,No,Needs improvement
+60,1819,4.0,No,Great service
+61,1259,1.0,No,
+62,1326,5.0,No,Friendly staff
+63,447,5.0,No,Very satisfied
+64,1225,1.0,No,Needs improvement
+65,1539,2.0,No,Long wait
+66,624,,Yes,Very satisfied
+67,1055,,No,Needs improvement
+68,50,,No,Very satisfied
+69,661,1.0,No,
+70,283,2.0,Yes,Very satisfied
+71,933,1.0,No,Very satisfied
+72,1755,5.0,No,Very satisfied
+73,1567,1.0,No,Very satisfied
+74,1482,4.0,Yes,Needs improvement
+75,801,2.0,Yes,Great service
+76,1562,1.0,No,Long wait
+77,1184,,Yes,Needs improvement
+78,393,5.0,Yes,
+79,1719,5.0,Yes,Very satisfied
+80,1161,5.0,Yes,Needs improvement
+81,246,5.0,Yes,Needs improvement
+82,1439,3.0,Yes,Long wait
+83,950,1.0,No,Very satisfied
+84,1873,1.0,No,Friendly staff
+85,1251,3.0,Yes,Needs improvement
+86,1203,3.0,Yes,Great service
+87,423,,Yes,Great service
+88,1382,2.0,No,Friendly staff
+89,1408,,Yes,Great service
+90,579,3.0,No,Needs improvement
+91,55,4.0,Yes,Great service
+92,1264,3.0,No,Long wait
+93,5,3.0,No,
+94,1087,2.0,No,Long wait
+95,1150,5.0,No,Very satisfied
+96,1611,2.0,Yes,Very satisfied
+97,301,,Yes,Needs improvement
+98,1485,5.0,Yes,Needs improvement
+99,966,5.0,Yes,Needs improvement
+100,1299,4.0,No,Very satisfied
+101,455,,Yes,Friendly staff
+102,1809,,Yes,Great service
+103,778,,No,
+104,1887,,Yes,Very satisfied
+105,1047,1.0,No,Great service
+106,410,4.0,Yes,Great service
+107,975,1.0,Yes,Needs improvement
+108,1292,3.0,Yes,Needs improvement
+109,1802,1.0,Yes,Great service
+110,1051,,Yes,
+111,1312,1.0,No,Long wait
+112,824,2.0,Yes,
+113,1938,4.0,Yes,Very satisfied
+114,1783,3.0,No,
+115,669,1.0,Yes,Needs improvement
+116,302,5.0,No,
+117,377,,No,Very satisfied
+118,565,1.0,Yes,Needs improvement
+119,1106,1.0,No,
+120,1404,1.0,No,Great service
+121,352,4.0,No,Needs improvement
+122,272,1.0,Yes,
+123,274,1.0,Yes,
+124,246,4.0,Yes,Very satisfied
+125,1552,2.0,No,Long wait
+126,1378,3.0,No,Friendly staff
+127,448,3.0,No,Very satisfied
+128,1334,2.0,No,Friendly staff
+129,1069,,No,Great service
+130,167,2.0,Yes,Very satisfied
+131,1529,3.0,Yes,Friendly staff
+132,333,,No,Long wait
+133,836,5.0,Yes,
+134,185,2.0,Yes,Needs improvement
+135,746,2.0,Yes,Long wait
+136,1130,3.0,No,Needs improvement
+137,1686,,Yes,Long wait
+138,1250,4.0,No,Great service
+139,271,3.0,Yes,Needs improvement
+140,652,2.0,No,Great service
+141,721,3.0,Yes,Very satisfied
+142,1565,4.0,No,
+143,1544,1.0,No,Friendly staff
+144,1596,3.0,Yes,Long wait
+145,1790,4.0,No,
+146,1120,2.0,Yes,Friendly staff
+147,1791,,No,Needs improvement
+148,510,5.0,No,Friendly staff
+149,1924,,No,Needs improvement
+150,312,2.0,Yes,Long wait
+151,877,1.0,No,Needs improvement
+152,1653,4.0,No,Friendly staff
+153,1199,1.0,Yes,Friendly staff
+154,1191,3.0,No,Very satisfied
+155,1854,2.0,Yes,Very satisfied
+156,104,3.0,Yes,
+157,1075,4.0,Yes,Long wait
+158,1969,4.0,Yes,Great service
+159,787,4.0,No,Great service
+160,1980,4.0,No,Long wait
+161,388,3.0,No,
+162,1209,5.0,Yes,
+163,1874,,Yes,Long wait
+164,657,5.0,No,Needs improvement
+165,1139,5.0,No,Very satisfied
+166,1015,4.0,Yes,Friendly staff
+167,1877,4.0,Yes,Friendly staff
+168,249,2.0,No,
+169,354,1.0,No,
+170,1666,2.0,Yes,Friendly staff
+171,410,5.0,Yes,
+172,174,2.0,Yes,Needs improvement
+173,21,1.0,Yes,Great service
+174,594,3.0,Yes,Very satisfied
+175,1349,,No,Needs improvement
+176,301,5.0,Yes,Friendly staff
+177,1518,,Yes,Great service
+178,1784,3.0,Yes,Long wait
+179,616,1.0,Yes,Long wait
+180,1058,5.0,No,Friendly staff
+181,312,,No,Long wait
+182,68,5.0,No,Very satisfied
+183,671,,No,Friendly staff
+184,328,,Yes,Friendly staff
+185,1861,1.0,No,
+186,1986,,Yes,Great service
+187,1063,2.0,Yes,Friendly staff
+188,1704,2.0,Yes,
+189,1910,4.0,No,Needs improvement
+190,1247,1.0,No,
+191,1855,5.0,No,Long wait
+192,1875,5.0,Yes,Very satisfied
+193,1756,3.0,No,
+194,270,1.0,Yes,Needs improvement
+195,1350,3.0,Yes,Very satisfied
+196,1916,1.0,No,
+197,837,4.0,Yes,
+198,882,5.0,No,Needs improvement
+199,314,,No,Great service
+200,635,2.0,No,Needs improvement
+201,528,1.0,Yes,Friendly staff
+202,462,1.0,Yes,Needs improvement
+203,1353,5.0,No,Needs improvement
+204,199,1.0,Yes,Needs improvement
+205,1004,4.0,Yes,Very satisfied
+206,348,1.0,No,Friendly staff
+207,128,2.0,No,Great service
+208,1552,5.0,Yes,Great service
+209,301,,No,
+210,1525,5.0,Yes,
+211,407,5.0,No,Long wait
+212,431,4.0,Yes,Long wait
+213,611,,Yes,Friendly staff
+214,1745,3.0,No,Needs improvement
+215,587,5.0,Yes,Friendly staff
+216,1011,4.0,Yes,Needs improvement
+217,1536,5.0,No,Long wait
+218,1587,2.0,No,Great service
+219,1891,1.0,No,Needs improvement
+220,659,1.0,Yes,Needs improvement
+221,1290,1.0,No,Great service
+222,990,,Yes,Very satisfied
+223,341,5.0,No,Great service
+224,549,3.0,No,Long wait
+225,1990,3.0,Yes,
+226,1667,1.0,No,
+227,3,3.0,No,
+228,1520,1.0,Yes,Friendly staff
+229,1834,4.0,No,Friendly staff
+230,1472,5.0,No,Very satisfied
+231,750,2.0,Yes,Needs improvement
+232,97,,No,Needs improvement
+233,6,1.0,No,Great service
+234,1204,2.0,Yes,Very satisfied
+235,638,3.0,No,Great service
+236,1106,3.0,Yes,Long wait
+237,1238,,Yes,Long wait
+238,167,5.0,Yes,Very satisfied
+239,429,5.0,No,Needs improvement
+240,1575,2.0,Yes,Long wait
+241,1053,3.0,No,Very satisfied
+242,1943,3.0,Yes,Very satisfied
+243,911,5.0,Yes,Long wait
+244,803,3.0,Yes,
+245,1430,3.0,Yes,Needs improvement
+246,579,,No,Very satisfied
+247,1230,2.0,Yes,Very satisfied
+248,485,3.0,No,Long wait
+249,410,1.0,Yes,
+250,960,3.0,No,Great service
+251,1031,5.0,Yes,Needs improvement
+252,999,1.0,No,Great service
+253,1222,2.0,Yes,Very satisfied
+254,1466,1.0,Yes,
+255,1719,,No,Long wait
+256,162,1.0,Yes,Very satisfied
+257,1754,2.0,No,Needs improvement
+258,206,1.0,No,
+259,565,5.0,No,
+260,97,3.0,Yes,Needs improvement
+261,494,2.0,Yes,Great service
+262,1217,,No,Great service
+263,605,4.0,Yes,Long wait
+264,38,3.0,Yes,
+265,1854,4.0,Yes,Needs improvement
+266,978,3.0,No,Very satisfied
+267,571,3.0,No,Very satisfied
+268,1430,1.0,Yes,Very satisfied
+269,1834,2.0,Yes,Needs improvement
+270,1538,1.0,No,Needs improvement
+271,1528,1.0,No,Very satisfied
+272,500,5.0,No,Needs improvement
+273,1795,4.0,No,Needs improvement
+274,271,4.0,Yes,Long wait
+275,670,,No,Great service
+276,745,2.0,Yes,Long wait
+277,1535,4.0,Yes,Very satisfied
+278,1095,3.0,Yes,Long wait
+279,766,4.0,No,Great service
+280,443,4.0,No,Great service
+281,678,1.0,No,Long wait
+282,86,4.0,No,Long wait
+283,889,1.0,No,Great service
+284,265,,Yes,Very satisfied
+285,1297,4.0,No,Great service
+286,1278,5.0,Yes,Great service
+287,1761,2.0,Yes,
+288,243,2.0,Yes,Very satisfied
+289,486,,Yes,Long wait
+290,748,2.0,Yes,
+291,538,3.0,Yes,Very satisfied
+292,410,4.0,No,
+293,958,,No,Long wait
+294,1757,1.0,Yes,Needs improvement
+295,86,1.0,No,Great service
+296,273,4.0,No,Needs improvement
+297,1914,3.0,No,Friendly staff
+298,1662,3.0,Yes,Great service
+299,654,3.0,No,Very satisfied
+300,585,3.0,Yes,
+301,186,1.0,Yes,Very satisfied
+302,1150,1.0,No,Friendly staff
+303,1289,3.0,Yes,Friendly staff
+304,1816,3.0,No,Needs improvement
+305,832,2.0,Yes,
+306,1627,,No,Long wait
+307,253,4.0,No,Great service
+308,645,,No,Needs improvement
+309,25,2.0,No,Great service
+310,1661,4.0,Yes,Friendly staff
+311,1110,4.0,Yes,Needs improvement
+312,22,3.0,No,Very satisfied
+313,316,4.0,No,Great service
+314,269,2.0,No,Great service
+315,750,5.0,No,Great service
+316,146,3.0,Yes,Very satisfied
+317,9,1.0,No,Long wait
+318,1392,,Yes,Needs improvement
+319,1018,1.0,No,Needs improvement
+320,111,3.0,No,
+321,127,3.0,Yes,Long wait
+322,524,3.0,Yes,Long wait
+323,503,5.0,No,Friendly staff
+324,906,5.0,No,Great service
+325,1454,4.0,No,Very satisfied
+326,1527,3.0,Yes,Great service
+327,1393,3.0,No,
+328,112,3.0,No,Great service
+329,1173,,Yes,Very satisfied
+330,1910,5.0,No,Needs improvement
+331,1976,,No,Very satisfied
+332,829,5.0,Yes,Needs improvement
+333,677,4.0,Yes,
+334,482,2.0,No,Very satisfied
+335,1244,4.0,No,Very satisfied
+336,1374,5.0,No,Needs improvement
+337,1121,1.0,No,Very satisfied
+338,960,1.0,Yes,Long wait
+339,1528,,No,Needs improvement
+340,1642,,Yes,
+341,544,2.0,Yes,Very satisfied
+342,206,5.0,Yes,Long wait
+343,53,5.0,No,Needs improvement
+344,1002,2.0,Yes,Long wait
+345,1742,2.0,No,Long wait
+346,1611,,Yes,Long wait
+347,1159,4.0,No,Friendly staff
+348,82,2.0,Yes,Friendly staff
+349,492,2.0,No,Needs improvement
+350,771,5.0,Yes,Friendly staff
+351,339,4.0,No,Long wait
+352,1274,,Yes,Long wait
+353,1477,5.0,No,Very satisfied
+354,289,1.0,Yes,Long wait
+355,1405,2.0,Yes,
+356,193,3.0,Yes,Great service
+357,867,5.0,Yes,Long wait
+358,1559,2.0,No,Friendly staff
+359,284,2.0,No,Needs improvement
+360,1352,1.0,Yes,
+361,19,,No,Friendly staff
+362,1680,3.0,Yes,Friendly staff
+363,1726,3.0,No,Long wait
+364,1837,4.0,Yes,Needs improvement
+365,663,4.0,Yes,Long wait
+366,1129,2.0,Yes,Great service
+367,8,,No,Friendly staff
+368,504,2.0,Yes,Long wait
+369,1585,4.0,Yes,Long wait
+370,1010,4.0,No,Needs improvement
+371,448,2.0,Yes,Needs improvement
+372,1816,,Yes,Needs improvement
+373,823,3.0,No,Great service
+374,1896,4.0,Yes,Long wait
+375,1144,3.0,Yes,Long wait
+376,776,1.0,No,
+377,642,2.0,No,Long wait
+378,1291,3.0,Yes,Very satisfied
+379,1688,1.0,No,Very satisfied
+380,610,,Yes,Long wait
+381,1839,4.0,No,Great service
+382,1384,,No,Needs improvement
+383,1601,3.0,Yes,Needs improvement
+384,929,4.0,Yes,Friendly staff
+385,1166,1.0,No,Long wait
+386,29,1.0,Yes,Very satisfied
+387,830,2.0,No,Very satisfied
+388,1735,4.0,No,Needs improvement
+389,1493,1.0,No,
+390,918,3.0,No,
+391,995,,Yes,Great service
+392,1071,2.0,No,Very satisfied
+393,1177,5.0,No,
+394,1618,1.0,No,
+395,1872,,No,Great service
+396,1207,,No,Friendly staff
+397,30,3.0,Yes,Long wait
+398,1687,4.0,No,Friendly staff
+399,444,2.0,Yes,Very satisfied
+400,456,5.0,No,Needs improvement
+401,208,2.0,Yes,Long wait
+402,1472,5.0,Yes,Very satisfied
+403,1776,1.0,No,
+404,591,5.0,No,Long wait
+405,516,1.0,Yes,Very satisfied
+406,150,2.0,No,Needs improvement
+407,1519,,Yes,Long wait
+408,1863,2.0,No,Needs improvement
+409,615,2.0,Yes,Friendly staff
+410,815,,No,Very satisfied
+411,1033,,No,Great service
+412,1736,5.0,Yes,Long wait
+413,420,4.0,No,Great service
+414,676,,No,Great service
+415,795,5.0,Yes,Needs improvement
+416,1429,1.0,Yes,Very satisfied
+417,1482,3.0,No,Needs improvement
+418,627,4.0,No,Needs improvement
+419,51,,No,
+420,878,,No,
+421,552,5.0,No,Long wait
+422,1810,,Yes,Great service
+423,1754,5.0,No,Long wait
+424,413,4.0,Yes,Great service
+425,1720,5.0,Yes,
+426,1803,2.0,No,Great service
+427,787,4.0,Yes,Great service
+428,203,4.0,No,Friendly staff
+429,1845,3.0,No,Very satisfied
+430,1038,4.0,No,Friendly staff
+431,1023,,No,Friendly staff
+432,672,3.0,No,Friendly staff
+433,205,2.0,No,Needs improvement
+434,883,3.0,Yes,Great service
+435,108,4.0,No,Friendly staff
+436,1068,4.0,Yes,Friendly staff
+437,1400,1.0,No,Great service
+438,850,4.0,No,Friendly staff
+439,666,1.0,Yes,Long wait
+440,1827,3.0,No,Friendly staff
+441,141,5.0,No,Friendly staff
+442,11,2.0,Yes,Long wait
+443,1084,4.0,No,Great service
+444,1050,2.0,No,Needs improvement
+445,1777,1.0,Yes,Needs improvement
+446,41,2.0,No,Long wait
+447,94,5.0,No,Friendly staff
+448,316,2.0,No,Great service
+449,356,1.0,No,Very satisfied
+450,100,5.0,Yes,Great service
+451,1247,3.0,Yes,Long wait
+452,552,,Yes,
+453,1578,4.0,Yes,
+454,975,5.0,No,
+455,1798,4.0,Yes,Friendly staff
+456,690,2.0,No,Great service
+457,430,3.0,No,
+458,554,5.0,Yes,Friendly staff
+459,651,1.0,No,Long wait
+460,725,4.0,No,Friendly staff
+461,1044,1.0,No,Needs improvement
+462,1312,,Yes,
+463,515,,Yes,Friendly staff
+464,1198,,Yes,Long wait
+465,1348,4.0,Yes,Long wait
+466,1469,5.0,No,Friendly staff
+467,302,,Yes,Long wait
+468,1986,1.0,No,
+469,1230,2.0,No,
+470,575,5.0,Yes,Needs improvement
+471,392,3.0,Yes,Great service
+472,466,1.0,No,Very satisfied
+473,942,4.0,No,
+474,895,4.0,No,
+475,749,1.0,No,Great service
+476,1052,4.0,No,Very satisfied
+477,1071,,Yes,Long wait
+478,8,5.0,Yes,
+479,656,,No,Very satisfied
+480,1054,3.0,Yes,
+481,861,2.0,Yes,Very satisfied
+482,1570,2.0,Yes,Needs improvement
+483,64,,No,Very satisfied
+484,1124,4.0,No,Long wait
+485,941,4.0,No,Friendly staff
+486,1901,5.0,Yes,Great service
+487,1740,4.0,Yes,Very satisfied
+488,6,4.0,No,Long wait
+489,1728,5.0,Yes,Very satisfied
+490,1980,,Yes,Friendly staff
+491,189,5.0,Yes,Needs improvement
+492,1108,5.0,Yes,Friendly staff
+493,1596,2.0,No,Friendly staff
+494,1683,3.0,No,Needs improvement
+495,1276,5.0,Yes,Needs improvement
+496,1901,2.0,Yes,Long wait
+497,943,,Yes,Long wait
+498,1339,4.0,Yes,Needs improvement
+499,1280,5.0,Yes,Long wait
+500,1811,2.0,Yes,Needs improvement
+501,1392,5.0,Yes,Great service
+502,1451,4.0,No,Friendly staff
+503,1788,,No,Great service
+504,1375,5.0,No,Needs improvement
+505,915,5.0,No,Very satisfied
+506,532,1.0,No,Needs improvement
+507,1017,3.0,No,Long wait
+508,1216,5.0,Yes,
+509,1108,5.0,Yes,Needs improvement
+510,1534,2.0,No,
+511,136,3.0,Yes,Friendly staff
+512,1012,5.0,Yes,
+513,1190,3.0,No,
+514,1247,,No,Long wait
+515,830,5.0,Yes,
+516,540,5.0,No,Needs improvement
+517,421,5.0,Yes,Long wait
+518,1966,1.0,No,Needs improvement
+519,163,2.0,Yes,
+520,818,,Yes,Long wait
+521,235,,Yes,Very satisfied
+522,1741,3.0,Yes,
+523,1800,5.0,Yes,Long wait
+524,1902,5.0,No,Very satisfied
+525,1606,1.0,Yes,Great service
+526,1329,4.0,Yes,Needs improvement
+527,795,,Yes,Great service
+528,97,4.0,Yes,Long wait
+529,986,2.0,Yes,Needs improvement
+530,1134,5.0,Yes,Long wait
+531,563,,No,Very satisfied
+532,623,5.0,No,Great service
+533,497,,No,Great service
+534,862,4.0,No,Needs improvement
+535,1047,5.0,No,
+536,1604,,Yes,Long wait
+537,693,3.0,No,Great service
+538,1640,4.0,No,Long wait
+539,1515,1.0,Yes,Very satisfied
+540,1841,2.0,Yes,Friendly staff
+541,675,3.0,Yes,Very satisfied
+542,1729,3.0,No,Very satisfied
+543,1854,1.0,No,Long wait
+544,1319,1.0,No,
+545,1236,,Yes,
+546,561,,No,Friendly staff
+547,92,3.0,No,
+548,1101,2.0,Yes,Great service
+549,638,1.0,No,Needs improvement
+550,1948,1.0,Yes,Long wait
+551,1918,2.0,No,Great service
+552,407,4.0,No,Great service
+553,665,,No,
+554,1233,1.0,Yes,
+555,1309,4.0,No,
+556,915,5.0,Yes,Long wait
+557,476,,No,Very satisfied
+558,547,3.0,No,
+559,598,3.0,No,Needs improvement
+560,1177,3.0,Yes,Long wait
+561,1679,4.0,No,Friendly staff
+562,1668,1.0,Yes,Needs improvement
+563,447,2.0,No,Needs improvement
+564,448,4.0,Yes,Great service
+565,728,5.0,No,Friendly staff
+566,928,,Yes,
+567,1864,,Yes,Very satisfied
+568,900,2.0,Yes,
+569,806,5.0,Yes,Very satisfied
+570,78,2.0,Yes,Friendly staff
+571,1146,3.0,No,Very satisfied
+572,336,2.0,Yes,Long wait
+573,615,1.0,No,Very satisfied
+574,764,1.0,No,Very satisfied
+575,1514,3.0,Yes,
+576,887,4.0,Yes,Needs improvement
+577,1865,2.0,No,Friendly staff
+578,1628,4.0,No,Very satisfied
+579,522,4.0,Yes,Very satisfied
+580,251,3.0,No,
+581,581,,Yes,Very satisfied
+582,998,3.0,Yes,Needs improvement
+583,131,4.0,Yes,Friendly staff
+584,27,2.0,Yes,Great service
+585,1052,,Yes,Needs improvement
+586,1157,5.0,Yes,Very satisfied
+587,1709,3.0,Yes,Long wait
+588,1614,3.0,No,Very satisfied
+589,983,4.0,Yes,Very satisfied
+590,1210,3.0,Yes,Very satisfied
+591,998,4.0,No,Great service
+592,1508,2.0,Yes,
+593,830,3.0,Yes,Long wait
+594,1579,1.0,Yes,Needs improvement
+595,1970,,No,Very satisfied
+596,61,5.0,No,Very satisfied
+597,1678,2.0,Yes,
+598,1825,2.0,No,Needs improvement
+599,927,4.0,Yes,
+600,1529,4.0,No,Needs improvement
+601,892,1.0,Yes,Long wait
+602,642,,No,Long wait
+603,570,2.0,Yes,Long wait
+604,1625,2.0,Yes,Very satisfied
+605,1432,2.0,No,
+606,1206,5.0,Yes,Great service
+607,1843,2.0,No,Needs improvement
+608,1135,2.0,No,Needs improvement
+609,734,5.0,Yes,Great service
+610,972,4.0,Yes,Friendly staff
+611,307,,No,Friendly staff
+612,1668,4.0,Yes,Friendly staff
+613,602,1.0,Yes,Long wait
+614,503,3.0,Yes,Needs improvement
+615,623,4.0,No,Needs improvement
+616,1806,3.0,Yes,Needs improvement
+617,1667,1.0,Yes,
+618,786,2.0,No,Long wait
+619,778,2.0,Yes,
+620,1198,3.0,No,
+621,1298,3.0,No,
+622,1553,2.0,Yes,Needs improvement
+623,1404,4.0,No,Friendly staff
+624,1663,1.0,No,
+625,93,1.0,Yes,
+626,663,1.0,Yes,Very satisfied
+627,1642,3.0,No,Great service
+628,1493,,Yes,Friendly staff
+629,1597,3.0,No,
+630,818,4.0,Yes,Long wait
+631,1093,5.0,Yes,
+632,2,3.0,No,Long wait
+633,1960,2.0,Yes,Friendly staff
+634,1895,3.0,No,Needs improvement
+635,1498,,Yes,Friendly staff
+636,1407,4.0,No,
+637,1699,2.0,Yes,Friendly staff
+638,191,1.0,No,Very satisfied
+639,1601,5.0,No,
+640,1059,4.0,No,Long wait
+641,131,2.0,Yes,Friendly staff
+642,29,5.0,No,Friendly staff
+643,500,4.0,No,Very satisfied
+644,892,4.0,Yes,
+645,398,1.0,No,
+646,106,1.0,Yes,Very satisfied
+647,1427,5.0,No,Long wait
+648,176,3.0,Yes,
+649,173,3.0,Yes,Great service
+650,513,2.0,No,Needs improvement
+651,1096,4.0,Yes,Very satisfied
+652,213,1.0,No,
+653,159,5.0,No,Great service
+654,93,5.0,No,Very satisfied
+655,1075,3.0,No,Friendly staff
+656,264,3.0,No,Great service
+657,833,,Yes,Long wait
+658,1769,4.0,Yes,Long wait
+659,1894,,Yes,Friendly staff
+660,1930,3.0,Yes,Very satisfied
+661,1522,2.0,Yes,Needs improvement
+662,69,1.0,Yes,Long wait
+663,112,2.0,No,Friendly staff
+664,1326,,No,Very satisfied
+665,39,,No,Long wait
+666,345,3.0,Yes,Great service
+667,593,2.0,Yes,Needs improvement
+668,838,4.0,Yes,Great service
+669,646,1.0,No,Friendly staff
+670,1513,5.0,Yes,Great service
+671,196,4.0,No,Long wait
+672,422,,Yes,Long wait
+673,278,2.0,No,Great service
+674,65,3.0,Yes,
+675,268,2.0,Yes,Great service
+676,763,4.0,Yes,Very satisfied
+677,57,1.0,Yes,Great service
+678,234,2.0,No,
+679,629,2.0,Yes,
+680,207,2.0,Yes,Very satisfied
+681,357,3.0,Yes,
+682,776,1.0,Yes,Long wait
+683,499,,No,Friendly staff
+684,1705,4.0,No,Friendly staff
+685,259,2.0,No,Long wait
+686,1026,4.0,No,Friendly staff
+687,1249,4.0,No,Great service
+688,355,3.0,No,Needs improvement
+689,396,3.0,Yes,Very satisfied
+690,112,,No,Long wait
+691,896,4.0,No,Very satisfied
+692,1854,2.0,No,Very satisfied
+693,1174,5.0,No,Long wait
+694,1274,4.0,Yes,Friendly staff
+695,829,1.0,No,Very satisfied
+696,364,4.0,No,Friendly staff
+697,1668,3.0,Yes,Friendly staff
+698,1000,4.0,Yes,Friendly staff
+699,1613,2.0,Yes,
+700,1877,4.0,No,Friendly staff
+701,216,3.0,No,Friendly staff
+702,449,2.0,No,
+703,1430,3.0,Yes,Friendly staff
+704,1799,4.0,No,Needs improvement
+705,890,,No,Very satisfied
+706,478,3.0,Yes,
+707,1189,,No,Long wait
+708,1561,,No,Very satisfied
+709,512,2.0,No,Long wait
+710,1797,,No,Needs improvement
+711,1892,5.0,Yes,Friendly staff
+712,212,3.0,No,Great service
+713,321,,No,Very satisfied
+714,1430,4.0,Yes,Very satisfied
+715,1281,5.0,Yes,Friendly staff
+716,556,2.0,No,Needs improvement
+717,1124,3.0,No,Long wait
+718,1370,5.0,Yes,Needs improvement
+719,1608,1.0,No,Very satisfied
+720,1103,2.0,No,
+721,964,5.0,Yes,
+722,1247,5.0,Yes,Needs improvement
+723,197,3.0,Yes,Very satisfied
+724,1939,5.0,Yes,Great service
+725,807,5.0,Yes,Very satisfied
+726,946,1.0,Yes,Long wait
+727,48,4.0,Yes,Needs improvement
+728,268,4.0,Yes,Needs improvement
+729,1416,2.0,Yes,Great service
+730,561,5.0,No,Needs improvement
+731,1964,5.0,Yes,
+732,1836,2.0,No,Very satisfied
+733,564,5.0,Yes,Great service
+734,270,1.0,No,Needs improvement
+735,1606,2.0,No,Needs improvement
+736,813,2.0,No,Very satisfied
+737,570,2.0,Yes,Needs improvement
+738,1726,,No,Friendly staff
+739,1538,4.0,Yes,Long wait
+740,1225,1.0,No,Long wait
+741,1533,5.0,No,Great service
+742,441,4.0,No,
+743,1734,,Yes,Very satisfied
+744,225,2.0,No,Very satisfied
+745,1866,4.0,No,
+746,943,1.0,No,Needs improvement
+747,1377,1.0,No,Very satisfied
+748,1821,5.0,Yes,Long wait
+749,674,2.0,Yes,Great service
+750,215,4.0,Yes,Long wait
+751,717,5.0,Yes,Great service
+752,822,,Yes,
+753,1233,3.0,Yes,Great service
+754,399,2.0,Yes,Friendly staff
+755,1991,3.0,Yes,Needs improvement
+756,1880,,No,Needs improvement
+757,1346,2.0,No,
+758,1628,1.0,No,Great service
+759,1691,5.0,No,Great service
+760,1492,1.0,Yes,Needs improvement
+761,1011,5.0,Yes,Great service
+762,152,3.0,Yes,Great service
+763,821,1.0,No,
+764,1341,,Yes,Great service
+765,98,3.0,Yes,Great service
+766,309,5.0,No,Needs improvement
+767,1897,1.0,No,
+768,68,,Yes,
+769,1234,1.0,Yes,Friendly staff
+770,296,1.0,Yes,Friendly staff
+771,1028,,No,Friendly staff
+772,1134,3.0,Yes,Great service
+773,430,3.0,Yes,Great service
+774,872,1.0,No,
+775,1375,1.0,No,
+776,205,2.0,No,Great service
+777,164,3.0,No,Great service
+778,1752,,Yes,Needs improvement
+779,238,2.0,Yes,Very satisfied
+780,201,5.0,No,Great service
+781,278,3.0,No,Very satisfied
+782,1777,1.0,Yes,
+783,1138,,Yes,Friendly staff
+784,189,1.0,Yes,
+785,941,,No,Friendly staff
+786,280,4.0,Yes,
+787,437,4.0,No,
+788,755,4.0,No,Friendly staff
+789,1762,4.0,Yes,
+790,147,2.0,Yes,Great service
+791,1881,,No,Friendly staff
+792,1259,1.0,No,Great service
+793,1603,5.0,No,Long wait
+794,511,,Yes,Great service
+795,714,3.0,Yes,Great service
+796,1455,2.0,Yes,Friendly staff
+797,447,3.0,Yes,Needs improvement
+798,1223,,No,Very satisfied
+799,380,4.0,Yes,Needs improvement
+800,1123,3.0,No,Friendly staff
+801,343,3.0,Yes,Very satisfied
+802,1018,,No,Great service
+803,5,2.0,No,Friendly staff
+804,997,,Yes,Very satisfied
+805,956,5.0,No,
+806,1077,3.0,No,Needs improvement
+807,1239,3.0,Yes,Great service
+808,63,3.0,Yes,
+809,1288,,No,Needs improvement
+810,925,3.0,No,Long wait
+811,749,3.0,No,Long wait
+812,1745,2.0,No,Very satisfied
+813,1484,1.0,No,Long wait
+814,799,4.0,Yes,Very satisfied
+815,741,4.0,No,Great service
+816,531,4.0,Yes,Needs improvement
+817,47,,Yes,Great service
+818,603,,No,Great service
+819,1718,2.0,Yes,Needs improvement
+820,1043,,No,Long wait
+821,534,1.0,No,Great service
+822,1796,1.0,Yes,Very satisfied
+823,1665,4.0,No,
+824,1228,1.0,No,Great service
+825,996,2.0,Yes,Great service
+826,967,4.0,Yes,Long wait
+827,1028,,Yes,Great service
+828,720,,Yes,Long wait
+829,470,2.0,Yes,Long wait
+830,359,5.0,Yes,Friendly staff
+831,27,5.0,No,Needs improvement
+832,670,2.0,Yes,Friendly staff
+833,1242,5.0,No,Great service
+834,3,3.0,Yes,Great service
+835,1488,5.0,No,Needs improvement
+836,1240,1.0,Yes,Friendly staff
+837,1823,1.0,Yes,Long wait
+838,711,,Yes,Friendly staff
+839,398,3.0,No,Long wait
+840,338,,Yes,Great service
+841,1622,4.0,No,Great service
+842,1310,,No,Needs improvement
+843,1140,1.0,No,
+844,493,1.0,Yes,
+845,36,1.0,Yes,Friendly staff
+846,210,5.0,No,Very satisfied
+847,1932,3.0,Yes,Friendly staff
+848,159,5.0,No,Long wait
+849,1612,5.0,Yes,Very satisfied
+850,538,3.0,No,
+851,840,4.0,No,Very satisfied
+852,1810,,Yes,
+853,75,2.0,Yes,Very satisfied
+854,1045,,Yes,Great service
+855,790,2.0,No,Needs improvement
+856,1870,5.0,Yes,Very satisfied
+857,466,4.0,Yes,Very satisfied
+858,299,1.0,Yes,Very satisfied
+859,1271,,No,Friendly staff
+860,1908,2.0,No,
+861,1180,1.0,No,Friendly staff
+862,1132,3.0,No,Needs improvement
+863,1607,3.0,No,Very satisfied
+864,1574,1.0,No,Long wait
+865,1180,,Yes,Needs improvement
+866,1235,4.0,Yes,Very satisfied
+867,611,3.0,Yes,
+868,1245,5.0,No,Great service
+869,773,1.0,Yes,Needs improvement
+870,680,4.0,No,Long wait
+871,479,4.0,No,Friendly staff
+872,910,1.0,Yes,Needs improvement
+873,652,2.0,No,Needs improvement
+874,191,2.0,No,Very satisfied
+875,1148,1.0,No,
+876,1841,5.0,Yes,Long wait
+877,733,2.0,Yes,
+878,575,2.0,No,Very satisfied
+879,817,5.0,Yes,Very satisfied
+880,1256,4.0,No,Friendly staff
+881,618,4.0,No,Long wait
+882,662,1.0,No,Very satisfied
+883,378,2.0,Yes,Friendly staff
+884,357,2.0,No,
+885,10,1.0,No,Great service
+886,931,,Yes,Friendly staff
+887,227,,No,Friendly staff
+888,506,4.0,Yes,Friendly staff
+889,1095,3.0,No,Needs improvement
+890,578,5.0,Yes,Needs improvement
+891,357,4.0,No,Great service
+892,333,3.0,Yes,Friendly staff
+893,927,1.0,Yes,Long wait
+894,454,,Yes,
+895,1628,3.0,No,Friendly staff
+896,372,2.0,Yes,Friendly staff
+897,1311,5.0,Yes,
+898,793,2.0,Yes,Friendly staff
+899,42,2.0,No,Needs improvement
+900,377,,Yes,Needs improvement
+901,324,1.0,No,Friendly staff
+902,1949,2.0,Yes,Long wait
+903,55,3.0,Yes,Needs improvement
+904,951,5.0,Yes,Great service
+905,736,,Yes,
+906,361,4.0,No,
+907,430,4.0,Yes,Needs improvement
+908,454,2.0,No,Great service
+909,1989,2.0,Yes,Long wait
+910,1201,2.0,Yes,Friendly staff
+911,1089,3.0,Yes,Long wait
+912,310,1.0,No,Great service
+913,1376,5.0,Yes,Great service
+914,1181,2.0,Yes,Long wait
+915,766,5.0,Yes,Needs improvement
+916,1238,4.0,Yes,
+917,127,1.0,Yes,Very satisfied
+918,45,2.0,No,Needs improvement
+919,204,4.0,Yes,Long wait
+920,1724,3.0,No,Very satisfied
+921,1471,,No,Very satisfied
+922,1009,1.0,No,Friendly staff
+923,1987,5.0,No,Great service
+924,1490,4.0,Yes,Long wait
+925,1,3.0,No,Very satisfied
+926,1647,2.0,Yes,Very satisfied
+927,480,1.0,No,Very satisfied
+928,1286,4.0,No,
+929,1574,1.0,No,Friendly staff
+930,772,3.0,No,Very satisfied
+931,590,2.0,No,Great service
+932,1603,,Yes,
+933,606,3.0,Yes,Very satisfied
+934,1259,,Yes,Great service
+935,1373,4.0,No,Needs improvement
+936,1985,4.0,No,Friendly staff
+937,120,3.0,Yes,Very satisfied
+938,965,,No,Great service
+939,257,1.0,Yes,
+940,178,,No,Needs improvement
+941,1122,1.0,No,Very satisfied
+942,152,,Yes,Long wait
+943,271,2.0,Yes,Very satisfied
+944,234,4.0,No,Very satisfied
+945,1121,,No,Great service
+946,792,,No,Very satisfied
+947,876,2.0,No,Long wait
+948,278,2.0,Yes,Very satisfied
+949,996,1.0,No,
+950,319,1.0,Yes,Needs improvement
+951,1677,,No,Very satisfied
+952,1050,3.0,No,Long wait
+953,1867,4.0,Yes,Great service
+954,586,2.0,No,Long wait
+955,45,1.0,Yes,Very satisfied
+956,502,4.0,No,Long wait
+957,1167,5.0,Yes,Long wait
+958,1440,,Yes,Long wait
+959,294,3.0,No,Friendly staff
+960,1228,,No,Needs improvement
+961,1255,2.0,Yes,Needs improvement
+962,1547,5.0,No,Great service
+963,1006,,Yes,Very satisfied
+964,1018,4.0,No,
+965,147,3.0,Yes,
+966,286,1.0,Yes,Great service
+967,1596,3.0,Yes,Needs improvement
+968,1647,3.0,Yes,Very satisfied
+969,877,4.0,No,Long wait
+970,883,4.0,Yes,Friendly staff
+971,131,2.0,No,Long wait
+972,573,3.0,No,Long wait
+973,1971,2.0,No,Friendly staff
+974,1378,4.0,No,Needs improvement
+975,1257,4.0,No,Friendly staff
+976,1084,4.0,No,
+977,873,2.0,Yes,Friendly staff
+978,1668,5.0,No,Very satisfied
+979,753,1.0,Yes,Friendly staff
+980,834,,Yes,Friendly staff
+981,12,4.0,Yes,
+982,858,3.0,No,
+983,1903,3.0,Yes,Long wait
+984,1677,,Yes,Needs improvement
+985,1569,2.0,No,Needs improvement
+986,1457,4.0,Yes,
+987,1935,2.0,No,Very satisfied
+988,45,5.0,No,
+989,1593,2.0,No,Very satisfied
+990,1797,3.0,Yes,Great service
+991,269,5.0,Yes,Friendly staff
+992,896,,No,Great service
+993,382,2.0,Yes,Friendly staff
+994,1829,4.0,No,
+995,1756,,Yes,Friendly staff
+996,1866,3.0,No,Very satisfied
+997,1162,4.0,Yes,Friendly staff
+998,239,5.0,No,Very satisfied
+999,1343,1.0,No,Great service
+1000,417,2.0,Yes,Great service
+1001,600,4.0,Yes,Long wait
+1002,396,4.0,Yes,Very satisfied
+1003,115,5.0,No,Friendly staff
+1004,132,,No,Needs improvement
+1005,820,,No,Great service
+1006,810,2.0,No,Very satisfied
+1007,450,,Yes,
+1008,874,2.0,Yes,Great service
+1009,138,2.0,Yes,Great service
+1010,1683,1.0,No,
+1011,1881,3.0,Yes,Needs improvement
+1012,1674,3.0,Yes,Long wait
+1013,1542,2.0,No,Needs improvement
+1014,1384,5.0,No,Great service
+1015,1940,5.0,Yes,Very satisfied
+1016,1107,5.0,No,Needs improvement
+1017,1483,,Yes,Very satisfied
+1018,424,4.0,Yes,Friendly staff
+1019,1311,,No,
+1020,1879,3.0,No,
+1021,273,1.0,No,Needs improvement
+1022,574,5.0,Yes,Great service
+1023,1776,2.0,Yes,Friendly staff
+1024,1274,3.0,Yes,
+1025,1906,2.0,No,Great service
+1026,1690,,Yes,Great service
+1027,222,3.0,No,Needs improvement
+1028,225,4.0,No,
+1029,1466,,Yes,
+1030,1798,1.0,Yes,
+1031,1503,5.0,Yes,Friendly staff
+1032,523,,Yes,Great service
+1033,578,1.0,No,Long wait
+1034,131,3.0,No,Needs improvement
+1035,1831,5.0,No,Great service
+1036,1408,2.0,No,Long wait
+1037,1070,,Yes,Friendly staff
+1038,1055,,Yes,Needs improvement
+1039,636,4.0,No,Friendly staff
+1040,1036,1.0,Yes,Great service
+1041,1279,,Yes,Great service
+1042,1889,4.0,No,Needs improvement
+1043,578,4.0,Yes,Needs improvement
+1044,1722,4.0,No,Great service
+1045,187,5.0,Yes,Long wait
+1046,1820,4.0,Yes,Needs improvement
+1047,1838,5.0,Yes,Needs improvement
+1048,1438,1.0,No,Great service
+1049,219,3.0,No,Needs improvement
+1050,1637,5.0,No,Great service
+1051,175,5.0,No,Needs improvement
+1052,899,3.0,Yes,Very satisfied
+1053,408,2.0,No,Great service
+1054,976,1.0,No,Great service
+1055,682,5.0,Yes,Friendly staff
+1056,389,3.0,No,Very satisfied
+1057,1105,1.0,No,Needs improvement
+1058,671,4.0,Yes,
+1059,757,2.0,No,Long wait
+1060,507,5.0,Yes,Friendly staff
+1061,327,4.0,No,Very satisfied
+1062,291,1.0,No,Very satisfied
+1063,988,3.0,Yes,Great service
+1064,1396,3.0,No,Needs improvement
+1065,877,5.0,No,
+1066,1780,2.0,Yes,Long wait
+1067,14,2.0,No,Long wait
+1068,323,4.0,Yes,Needs improvement
+1069,1545,4.0,No,
+1070,1148,,Yes,Friendly staff
+1071,649,1.0,No,Very satisfied
+1072,1455,1.0,Yes,Friendly staff
+1073,258,5.0,No,Friendly staff
+1074,874,1.0,Yes,Great service
+1075,1647,5.0,No,Long wait
+1076,1928,1.0,No,Long wait
+1077,1815,,Yes,Very satisfied
+1078,936,2.0,Yes,Needs improvement
+1079,1625,4.0,No,Needs improvement
+1080,1884,,Yes,Great service
+1081,1800,5.0,No,Long wait
+1082,654,2.0,No,Very satisfied
+1083,1033,4.0,Yes,Great service
+1084,1598,5.0,Yes,Great service
+1085,907,1.0,Yes,Great service
+1086,99,2.0,No,Long wait
+1087,397,3.0,No,Needs improvement
+1088,444,,Yes,Friendly staff
+1089,1514,,No,Very satisfied
+1090,1357,4.0,No,Great service
+1091,1552,5.0,No,Great service
+1092,1389,5.0,No,Great service
+1093,771,3.0,No,Friendly staff
+1094,1581,4.0,No,Needs improvement
+1095,833,3.0,Yes,
+1096,1249,,No,
+1097,1751,2.0,Yes,Friendly staff
+1098,1596,3.0,Yes,Great service
+1099,1260,,No,Long wait
+1100,331,3.0,Yes,Very satisfied
+1101,778,,No,Long wait
+1102,1599,4.0,Yes,Very satisfied
+1103,374,2.0,Yes,
+1104,156,3.0,Yes,
+1105,1441,1.0,No,Great service
+1106,742,,No,Needs improvement
+1107,1376,2.0,No,Great service
+1108,1562,1.0,No,Needs improvement
+1109,1616,,Yes,Great service
+1110,1860,3.0,Yes,Very satisfied
+1111,1438,1.0,Yes,Great service
+1112,813,,Yes,Needs improvement
+1113,19,1.0,Yes,Long wait
+1114,822,3.0,Yes,Very satisfied
+1115,536,4.0,No,
+1116,934,5.0,Yes,Long wait
+1117,653,3.0,Yes,Friendly staff
+1118,1008,1.0,Yes,Great service
+1119,581,5.0,No,Needs improvement
+1120,1168,1.0,No,Needs improvement
+1121,497,,No,Very satisfied
+1122,794,3.0,Yes,Long wait
+1123,47,2.0,Yes,Needs improvement
+1124,1419,2.0,No,Needs improvement
+1125,748,2.0,Yes,Friendly staff
+1126,805,5.0,No,Friendly staff
+1127,1758,5.0,Yes,Very satisfied
+1128,1021,,Yes,Friendly staff
+1129,6,1.0,Yes,Very satisfied
+1130,1804,,Yes,Great service
+1131,1119,4.0,Yes,Great service
+1132,623,,No,Great service
+1133,655,1.0,Yes,
+1134,1569,3.0,No,Long wait
+1135,1688,2.0,No,Great service
+1136,821,,Yes,Very satisfied
+1137,117,,Yes,Long wait
+1138,656,4.0,Yes,Needs improvement
+1139,1226,,Yes,Great service
+1140,184,1.0,Yes,Very satisfied
+1141,78,5.0,Yes,
+1142,1681,5.0,Yes,Great service
+1143,1133,4.0,Yes,Very satisfied
+1144,8,3.0,Yes,Long wait
+1145,1079,,Yes,Friendly staff
+1146,1432,3.0,Yes,Friendly staff
+1147,1114,5.0,Yes,
+1148,1399,1.0,Yes,Great service
+1149,1892,3.0,Yes,Very satisfied
+1150,909,4.0,No,Great service
+1151,497,4.0,No,Long wait
+1152,1094,,Yes,
+1153,1616,1.0,Yes,Long wait
+1154,1382,,No,
+1155,137,3.0,No,Needs improvement
+1156,1832,,No,Needs improvement
+1157,1735,1.0,No,Very satisfied
+1158,452,1.0,Yes,Great service
+1159,715,,Yes,Very satisfied
+1160,1597,,Yes,Great service
+1161,1766,5.0,No,Needs improvement
+1162,1905,2.0,No,
+1163,1032,3.0,Yes,Great service
+1164,1143,5.0,Yes,Very satisfied
+1165,632,2.0,No,
+1166,477,4.0,No,Very satisfied
+1167,1769,3.0,Yes,Very satisfied
+1168,213,4.0,No,Needs improvement
+1169,981,,Yes,
+1170,1015,4.0,No,Long wait
+1171,1348,5.0,Yes,Needs improvement
+1172,1899,2.0,No,
+1173,1078,,No,Great service
+1174,180,,No,Very satisfied
+1175,331,4.0,No,Long wait
+1176,1213,2.0,Yes,Needs improvement
+1177,886,4.0,No,
+1178,1702,,Yes,
+1179,1433,,Yes,Needs improvement
+1180,1319,4.0,Yes,Needs improvement
+1181,1674,3.0,Yes,Long wait
+1182,1128,,Yes,Needs improvement
+1183,597,5.0,Yes,Friendly staff
+1184,1159,5.0,Yes,Long wait
+1185,663,3.0,No,Needs improvement
+1186,953,2.0,No,Friendly staff
+1187,1996,5.0,No,Needs improvement
+1188,607,1.0,Yes,
+1189,757,,Yes,Friendly staff
+1190,61,1.0,No,Great service
+1191,1584,4.0,Yes,Needs improvement
+1192,676,4.0,Yes,
+1193,144,2.0,No,Needs improvement
+1194,719,1.0,No,Great service
+1195,1328,1.0,No,
+1196,878,1.0,Yes,Very satisfied
+1197,740,1.0,Yes,Very satisfied
+1198,1236,2.0,No,Friendly staff
+1199,1218,,Yes,
+1200,1942,4.0,No,Friendly staff

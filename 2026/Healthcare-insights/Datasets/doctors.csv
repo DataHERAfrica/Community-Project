@@ -1,0 +1,26 @@
+DoctorID,DoctorName,DepartmentID,YearsExperience,EmploymentType
+1,Dr A1,1,3,Full-Time
+2,Dr B2,6,25,Part-Time
+3,Dr C3,6,7,Part-Time
+4,Dr D4,5,21,Full-Time
+5,Dr E5,4,29,Part-Time
+6,Dr F6,6,10,Part-Time
+7,Dr G7,2,26,Part-Time
+8,Dr H8,3,15,Full-Time
+9,Dr I9,6,2,Full-Time
+10,Dr J10,4,14,Part-Time
+11,Dr K11,4,7,Part-Time
+12,Dr L12,5,5,Part-Time
+13,Dr M13,6,11,Part-Time
+14,Dr N14,4,5,Part-Time
+15,Dr O15,5,18,Full-Time
+16,Dr P16,3,8,Part-Time
+17,Dr Q17,1,9,Part-Time
+18,Dr R18,2,5,Full-Time
+19,Dr S19,1,10,Part-Time
+20,Dr T20,5,14,Full-Time
+21,Dr U21,2,27,Part-Time
+22,Dr V22,5,24,Part-Time
+23,Dr W23,2,25,Full-Time
+24,Dr X24,4,17,Part-Time
+25,Dr Y25,4,29,Part-Time

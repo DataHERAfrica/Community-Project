@@ -1,0 +1,1601 @@
+TreatmentID,AppointmentID,TreatmentType,Cost,Outcome
+1,1992,Physiotherapy,100.0,Admitted
+2,1633,Physiotherapy,,Follow-up
+3,123,Consultation,200.0,Recovered
+4,222,Blood Test,200.0,Admitted
+5,812,Blood Test,,Follow-up
+6,1145,X-Ray,75.0,Recovered
+7,355,Physiotherapy,200.0,Follow-up
+8,910,Consultation,100.0,Follow-up
+9,277,ECG,150.0,Follow-up
+10,1747,X-Ray,,Follow-up
+11,156,X-Ray,,Recovered
+12,1884,X-Ray,50.0,Recovered
+13,1083,MRI,75.0,Admitted
+14,1556,Blood Test,100.0,Recovered
+15,881,MRI,,Admitted
+16,1495,Blood Test,200.0,Recovered
+17,945,Physiotherapy,100.0,Admitted
+18,346,MRI,100.0,Admitted
+19,359,MRI,75.0,Recovered
+20,1376,Physiotherapy,,Recovered
+21,1032,MRI,100.0,Follow-up
+22,1633,MRI,50.0,Recovered
+23,1385,Blood Test,100.0,Follow-up
+24,1337,MRI,100.0,Admitted
+25,957,MRI,,Recovered
+26,1782,X-Ray,50.0,Recovered
+27,287,X-Ray,75.0,Admitted
+28,917,MRI,200.0,Admitted
+29,1568,ECG,,Follow-up
+30,1398,Physiotherapy,,Recovered
+31,924,Blood Test,150.0,Recovered
+32,498,ECG,100.0,Admitted
+33,1314,ECG,,Recovered
+34,1003,X-Ray,50.0,Recovered
+35,1777,Physiotherapy,200.0,Follow-up
+36,1404,X-Ray,50.0,Follow-up
+37,725,ECG,50.0,Admitted
+38,1112,Consultation,50.0,Admitted
+39,1606,Blood Test,75.0,Recovered
+40,523,MRI,,Admitted
+41,399,Consultation,150.0,Admitted
+42,1624,X-Ray,100.0,Admitted
+43,1117,Physiotherapy,75.0,Follow-up
+44,1279,X-Ray,100.0,Recovered
+45,1805,MRI,50.0,Recovered
+46,1757,ECG,,Admitted
+47,213,Physiotherapy,50.0,Admitted
+48,1788,Blood Test,150.0,Follow-up
+49,1035,MRI,200.0,Recovered
+50,1726,Blood Test,100.0,Recovered
+51,572,MRI,100.0,Admitted
+52,1957,MRI,100.0,Follow-up
+53,876,Consultation,200.0,Recovered
+54,1679,Physiotherapy,100.0,Admitted
+55,136,Blood Test,200.0,Admitted
+56,446,Blood Test,,Admitted
+57,220,Consultation,,Admitted
+58,1334,ECG,,Follow-up
+59,494,ECG,200.0,Recovered
+60,302,Physiotherapy,150.0,Admitted
+61,1050,ECG,100.0,Admitted
+62,1506,Blood Test,200.0,Admitted
+63,1187,Blood Test,200.0,Admitted
+64,1054,X-Ray,,Admitted
+65,125,MRI,100.0,Follow-up
+66,1186,ECG,75.0,Follow-up
+67,215,MRI,150.0,Admitted
+68,282,MRI,150.0,Recovered
+69,75,Consultation,,Admitted
+70,1107,ECG,150.0,Admitted
+71,518,X-Ray,100.0,Recovered
+72,1853,X-Ray,200.0,Admitted
+73,464,Physiotherapy,150.0,Recovered
+74,1068,X-Ray,75.0,Admitted
+75,1623,Consultation,75.0,Recovered
+76,1324,ECG,200.0,Follow-up
+77,62,Blood Test,75.0,Admitted
+78,431,X-Ray,200.0,Admitted
+79,1893,Consultation,,Admitted
+80,1141,X-Ray,75.0,Recovered
+81,249,Consultation,50.0,Recovered
+82,380,X-Ray,75.0,Recovered
+83,34,Consultation,,Admitted
+84,791,Blood Test,150.0,Follow-up
+85,235,Consultation,50.0,Admitted
+86,1723,ECG,200.0,Admitted
+87,1778,Physiotherapy,,Follow-up
+88,1465,Blood Test,50.0,Recovered
+89,1122,Consultation,100.0,Recovered
+90,764,Blood Test,50.0,Follow-up
+91,127,ECG,75.0,Admitted
+92,593,MRI,,Recovered
+93,1314,Consultation,200.0,Admitted
+94,1547,Consultation,150.0,Follow-up
+95,863,Physiotherapy,,Recovered
+96,400,MRI,100.0,Follow-up
+97,1775,Physiotherapy,100.0,Admitted
+98,1619,Consultation,50.0,Recovered
+99,407,ECG,50.0,Follow-up
+100,1711,Blood Test,75.0,Recovered
+101,758,MRI,100.0,Admitted
+102,1205,Blood Test,150.0,Recovered
+103,679,Consultation,,Recovered
+104,893,Blood Test,,Follow-up
+105,865,MRI,50.0,Recovered
+106,27,ECG,150.0,Follow-up
+107,613,Consultation,,Recovered
+108,1442,X-Ray,100.0,Recovered
+109,1655,Blood Test,200.0,Follow-up
+110,206,Blood Test,200.0,Admitted
+111,551,Physiotherapy,150.0,Recovered
+112,1071,Physiotherapy,50.0,Follow-up
+113,1584,Physiotherapy,75.0,Follow-up
+114,860,Physiotherapy,75.0,Follow-up
+115,1135,X-Ray,150.0,Admitted
+116,1487,Physiotherapy,200.0,Admitted
+117,830,X-Ray,150.0,Admitted
+118,941,Consultation,200.0,Recovered
+119,1106,Blood Test,200.0,Admitted
+120,1066,ECG,200.0,Recovered
+121,968,Physiotherapy,,Admitted
+122,1313,Blood Test,200.0,Recovered
+123,746,Consultation,100.0,Admitted
+124,879,X-Ray,100.0,Follow-up
+125,1729,Consultation,200.0,Follow-up
+126,1837,Blood Test,50.0,Admitted
+127,1218,X-Ray,75.0,Recovered
+128,1932,Consultation,75.0,Follow-up
+129,1805,ECG,100.0,Follow-up
+130,1740,ECG,200.0,Admitted
+131,1145,X-Ray,150.0,Recovered
+132,620,Consultation,200.0,Recovered
+133,1559,Physiotherapy,100.0,Recovered
+134,1927,Consultation,150.0,Follow-up
+135,688,Physiotherapy,100.0,Recovered
+136,944,Blood Test,150.0,Follow-up
+137,1447,Consultation,,Admitted
+138,283,Blood Test,100.0,Follow-up
+139,1234,X-Ray,50.0,Recovered
+140,1110,ECG,,Admitted
+141,297,MRI,50.0,Admitted
+142,1460,Physiotherapy,150.0,Recovered
+143,893,MRI,75.0,Recovered
+144,289,Physiotherapy,150.0,Follow-up
+145,1050,Physiotherapy,50.0,Follow-up
+146,110,ECG,100.0,Admitted
+147,1498,MRI,100.0,Recovered
+148,216,Physiotherapy,100.0,Admitted
+149,602,MRI,150.0,Recovered
+150,654,Blood Test,200.0,Recovered
+151,6,Physiotherapy,75.0,Recovered
+152,1730,MRI,150.0,Recovered
+153,1455,Physiotherapy,50.0,Admitted
+154,102,Consultation,,Follow-up
+155,450,ECG,100.0,Follow-up
+156,564,Consultation,150.0,Recovered
+157,433,X-Ray,100.0,Follow-up
+158,364,Physiotherapy,75.0,Admitted
+159,1252,MRI,,Follow-up
+160,11,Consultation,50.0,Follow-up
+161,1066,ECG,200.0,Recovered
+162,330,ECG,100.0,Admitted
+163,927,X-Ray,50.0,Recovered
+164,860,Consultation,150.0,Admitted
+165,1893,MRI,50.0,Follow-up
+166,135,Consultation,100.0,Admitted
+167,1314,ECG,50.0,Recovered
+168,238,Physiotherapy,100.0,Recovered
+169,1251,X-Ray,150.0,Recovered
+170,1672,ECG,50.0,Follow-up
+171,381,Blood Test,50.0,Admitted
+172,1803,Consultation,,Follow-up
+173,466,Blood Test,50.0,Admitted
+174,279,X-Ray,50.0,Recovered
+175,947,Consultation,150.0,Admitted
+176,643,ECG,50.0,Recovered
+177,1960,Blood Test,100.0,Admitted
+178,1700,ECG,50.0,Admitted
+179,1176,MRI,200.0,Admitted
+180,671,ECG,100.0,Recovered
+181,1661,ECG,75.0,Admitted
+182,1069,Blood Test,150.0,Admitted
+183,1138,Physiotherapy,75.0,Follow-up
+184,706,X-Ray,200.0,Follow-up
+185,572,Blood Test,50.0,Follow-up
+186,1713,ECG,50.0,Admitted
+187,1625,ECG,200.0,Recovered
+188,972,X-Ray,100.0,Admitted
+189,170,X-Ray,,Recovered
+190,73,MRI,100.0,Recovered
+191,315,MRI,200.0,Admitted
+192,1251,Blood Test,75.0,Admitted
+193,376,Consultation,150.0,Follow-up
+194,437,ECG,100.0,Follow-up
+195,525,Physiotherapy,75.0,Follow-up
+196,1785,X-Ray,150.0,Admitted
+197,124,Blood Test,100.0,Admitted
+198,892,Consultation,,Follow-up
+199,918,X-Ray,200.0,Admitted
+200,449,ECG,100.0,Follow-up
+201,1907,Physiotherapy,200.0,Recovered
+202,1121,MRI,75.0,Follow-up
+203,1639,X-Ray,150.0,Admitted
+204,1985,MRI,150.0,Recovered
+205,1107,Consultation,100.0,Follow-up
+206,109,Blood Test,150.0,Follow-up
+207,1444,Consultation,150.0,Follow-up
+208,920,Physiotherapy,100.0,Follow-up
+209,164,MRI,150.0,Recovered
+210,422,Physiotherapy,75.0,Admitted
+211,1689,Consultation,200.0,Recovered
+212,1108,MRI,100.0,Recovered
+213,88,Blood Test,,Admitted
+214,634,ECG,50.0,Admitted
+215,1229,Consultation,75.0,Recovered
+216,1948,Consultation,50.0,Follow-up
+217,1596,Physiotherapy,150.0,Recovered
+218,1231,ECG,50.0,Recovered
+219,673,MRI,,Follow-up
+220,1397,Blood Test,50.0,Admitted
+221,1440,X-Ray,75.0,Admitted
+222,49,Blood Test,,Admitted
+223,760,X-Ray,100.0,Follow-up
+224,1431,Consultation,,Recovered
+225,2,Consultation,,Recovered
+226,374,Blood Test,100.0,Admitted
+227,732,Consultation,50.0,Recovered
+228,1762,Blood Test,,Recovered
+229,162,MRI,50.0,Follow-up
+230,440,ECG,75.0,Follow-up
+231,1980,ECG,,Admitted
+232,1205,MRI,150.0,Admitted
+233,1824,Physiotherapy,100.0,Recovered
+234,898,MRI,50.0,Follow-up
+235,205,Blood Test,,Recovered
+236,1730,X-Ray,150.0,Admitted
+237,1128,Consultation,100.0,Admitted
+238,1522,Physiotherapy,,Follow-up
+239,1319,Consultation,75.0,Admitted
+240,1539,Consultation,50.0,Recovered
+241,805,MRI,,Admitted
+242,443,MRI,,Recovered
+243,417,ECG,200.0,Recovered
+244,7,MRI,100.0,Recovered
+245,1921,Consultation,75.0,Follow-up
+246,94,Physiotherapy,200.0,Admitted
+247,1992,MRI,50.0,Recovered
+248,1112,MRI,,Admitted
+249,1864,Consultation,75.0,Admitted
+250,690,Physiotherapy,200.0,Recovered
+251,1966,Physiotherapy,100.0,Follow-up
+252,1557,X-Ray,100.0,Admitted
+253,1162,MRI,75.0,Recovered
+254,741,Blood Test,50.0,Recovered
+255,122,Blood Test,150.0,Admitted
+256,1927,Physiotherapy,50.0,Admitted
+257,40,Blood Test,200.0,Follow-up
+258,1932,Physiotherapy,50.0,Recovered
+259,1120,Blood Test,,Follow-up
+260,978,MRI,50.0,Admitted
+261,1834,X-Ray,150.0,Admitted
+262,547,ECG,,Recovered
+263,1468,X-Ray,,Recovered
+264,1168,MRI,100.0,Admitted
+265,1432,MRI,75.0,Recovered
+266,6,Blood Test,150.0,Follow-up
+267,773,X-Ray,100.0,Follow-up
+268,17,X-Ray,75.0,Admitted
+269,713,Consultation,50.0,Follow-up
+270,436,Blood Test,100.0,Follow-up
+271,267,Blood Test,75.0,Follow-up
+272,217,Blood Test,200.0,Follow-up
+273,377,Physiotherapy,50.0,Admitted
+274,383,ECG,200.0,Admitted
+275,1596,X-Ray,75.0,Recovered
+276,631,MRI,50.0,Recovered
+277,32,ECG,50.0,Admitted
+278,82,ECG,150.0,Admitted
+279,96,MRI,75.0,Recovered
+280,1305,Physiotherapy,200.0,Follow-up
+281,1046,MRI,75.0,Recovered
+282,311,Consultation,50.0,Follow-up
+283,805,Blood Test,75.0,Recovered
+284,1263,Consultation,100.0,Admitted
+285,686,Blood Test,100.0,Admitted
+286,1140,Physiotherapy,150.0,Follow-up
+287,1756,Physiotherapy,75.0,Recovered
+288,351,Physiotherapy,,Admitted
+289,1580,Blood Test,100.0,Recovered
+290,810,Consultation,75.0,Recovered
+291,859,ECG,75.0,Recovered
+292,1812,ECG,75.0,Follow-up
+293,758,MRI,200.0,Recovered
+294,160,MRI,150.0,Follow-up
+295,1823,Consultation,,Admitted
+296,259,Consultation,150.0,Recovered
+297,187,MRI,75.0,Recovered
+298,1462,Physiotherapy,50.0,Recovered
+299,388,Blood Test,,Recovered
+300,203,ECG,200.0,Admitted
+301,1353,X-Ray,50.0,Follow-up
+302,1858,Physiotherapy,50.0,Admitted
+303,1174,Blood Test,,Recovered
+304,1406,MRI,200.0,Recovered
+305,889,Consultation,50.0,Admitted
+306,895,X-Ray,200.0,Follow-up
+307,681,Physiotherapy,200.0,Recovered
+308,1496,Physiotherapy,100.0,Admitted
+309,1536,Blood Test,,Follow-up
+310,343,ECG,,Recovered
+311,782,Physiotherapy,200.0,Recovered
+312,1452,Consultation,100.0,Recovered
+313,981,Physiotherapy,,Admitted
+314,1758,X-Ray,50.0,Admitted
+315,769,Physiotherapy,75.0,Admitted
+316,1861,Physiotherapy,150.0,Recovered
+317,1646,Physiotherapy,100.0,Follow-up
+318,1970,MRI,50.0,Admitted
+319,197,Physiotherapy,75.0,Recovered
+320,1480,Blood Test,75.0,Recovered
+321,111,X-Ray,200.0,Recovered
+322,1260,MRI,200.0,Recovered
+323,1281,X-Ray,75.0,Admitted
+324,1937,X-Ray,50.0,Follow-up
+325,182,MRI,100.0,Follow-up
+326,571,ECG,75.0,Admitted
+327,270,ECG,200.0,Admitted
+328,225,Consultation,150.0,Follow-up
+329,1183,Physiotherapy,,Recovered
+330,1436,Consultation,,Recovered
+331,1507,ECG,,Recovered
+332,262,Consultation,,Recovered
+333,104,MRI,,Admitted
+334,306,X-Ray,75.0,Recovered
+335,1469,Blood Test,150.0,Follow-up
+336,1742,X-Ray,,Recovered
+337,500,MRI,,Recovered
+338,85,X-Ray,200.0,Recovered
+339,856,MRI,50.0,Follow-up
+340,520,Blood Test,75.0,Recovered
+341,1398,Consultation,100.0,Admitted
+342,1625,Physiotherapy,75.0,Follow-up
+343,936,Blood Test,100.0,Follow-up
+344,1850,Physiotherapy,50.0,Admitted
+345,1101,X-Ray,75.0,Recovered
+346,1401,Consultation,,Recovered
+347,1226,Consultation,150.0,Admitted
+348,1810,ECG,,Recovered
+349,962,MRI,150.0,Admitted
+350,84,X-Ray,200.0,Admitted
+351,1958,Physiotherapy,75.0,Recovered
+352,1934,Consultation,100.0,Recovered
+353,1725,ECG,200.0,Follow-up
+354,137,Physiotherapy,150.0,Follow-up
+355,333,X-Ray,200.0,Recovered
+356,1642,X-Ray,50.0,Follow-up
+357,998,Consultation,200.0,Recovered
+358,752,Blood Test,200.0,Follow-up
+359,1985,Blood Test,150.0,Follow-up
+360,1954,Consultation,150.0,Recovered
+361,1435,Blood Test,75.0,Recovered
+362,1169,Physiotherapy,150.0,Follow-up
+363,741,Consultation,100.0,Admitted
+364,588,MRI,100.0,Admitted
+365,75,Blood Test,150.0,Follow-up
+366,403,ECG,100.0,Admitted
+367,1578,X-Ray,,Recovered
+368,1163,Blood Test,100.0,Recovered
+369,620,ECG,200.0,Follow-up
+370,343,Blood Test,75.0,Recovered
+371,1734,X-Ray,150.0,Recovered
+372,889,Consultation,50.0,Follow-up
+373,1984,X-Ray,100.0,Recovered
+374,1610,Blood Test,,Recovered
+375,1884,ECG,100.0,Admitted
+376,1137,ECG,100.0,Follow-up
+377,1380,X-Ray,50.0,Admitted
+378,1055,Physiotherapy,,Recovered
+379,1094,ECG,150.0,Admitted
+380,1947,ECG,200.0,Recovered
+381,1516,Physiotherapy,150.0,Recovered
+382,1310,X-Ray,,Follow-up
+383,1859,ECG,50.0,Admitted
+384,1231,Physiotherapy,,Follow-up
+385,540,X-Ray,75.0,Admitted
+386,694,X-Ray,75.0,Admitted
+387,1978,MRI,150.0,Recovered
+388,1821,MRI,,Recovered
+389,747,Physiotherapy,75.0,Recovered
+390,503,MRI,75.0,Recovered
+391,1657,ECG,75.0,Recovered
+392,162,ECG,100.0,Admitted
+393,1084,Blood Test,150.0,Recovered
+394,766,ECG,100.0,Follow-up
+395,1769,Blood Test,,Follow-up
+396,1877,ECG,200.0,Admitted
+397,551,Blood Test,100.0,Follow-up
+398,823,Physiotherapy,,Admitted
+399,1634,MRI,,Admitted
+400,688,X-Ray,100.0,Recovered
+401,895,MRI,200.0,Follow-up
+402,1756,MRI,150.0,Follow-up
+403,1908,ECG,200.0,Admitted
+404,783,Consultation,150.0,Recovered
+405,1856,MRI,75.0,Recovered
+406,363,MRI,100.0,Follow-up
+407,46,Physiotherapy,,Recovered
+408,1173,MRI,200.0,Follow-up
+409,1041,Consultation,100.0,Recovered
+410,1558,Blood Test,200.0,Recovered
+411,662,MRI,200.0,Follow-up
+412,814,MRI,150.0,Recovered
+413,232,X-Ray,50.0,Follow-up
+414,1782,MRI,75.0,Recovered
+415,754,ECG,200.0,Recovered
+416,545,X-Ray,150.0,Recovered
+417,1912,MRI,50.0,Admitted
+418,1954,MRI,,Admitted
+419,1196,X-Ray,75.0,Recovered
+420,1928,Blood Test,50.0,Follow-up
+421,1591,MRI,100.0,Recovered
+422,1472,Consultation,150.0,Admitted
+423,846,X-Ray,,Follow-up
+424,463,Consultation,,Recovered
+425,62,Physiotherapy,,Admitted
+426,1497,Consultation,150.0,Admitted
+427,1684,MRI,75.0,Recovered
+428,1909,Consultation,50.0,Follow-up
+429,1495,Physiotherapy,150.0,Recovered
+430,1877,Physiotherapy,100.0,Follow-up
+431,321,X-Ray,100.0,Admitted
+432,573,ECG,75.0,Follow-up
+433,1822,Physiotherapy,150.0,Follow-up
+434,547,ECG,,Admitted
+435,1021,Consultation,50.0,Follow-up
+436,398,ECG,75.0,Admitted
+437,1913,ECG,50.0,Admitted
+438,1084,Blood Test,100.0,Admitted
+439,1681,X-Ray,75.0,Follow-up
+440,948,Blood Test,75.0,Admitted
+441,881,Blood Test,,Follow-up
+442,833,X-Ray,75.0,Follow-up
+443,7,Consultation,100.0,Recovered
+444,1323,Consultation,,Admitted
+445,732,X-Ray,150.0,Admitted
+446,129,Consultation,100.0,Follow-up
+447,1330,Physiotherapy,,Recovered
+448,75,Consultation,75.0,Follow-up
+449,1754,ECG,75.0,Admitted
+450,263,Consultation,100.0,Recovered
+451,655,Blood Test,,Recovered
+452,246,Blood Test,50.0,Admitted
+453,617,X-Ray,200.0,Admitted
+454,1622,Consultation,75.0,Follow-up
+455,1084,ECG,,Recovered
+456,1013,X-Ray,50.0,Recovered
+457,250,X-Ray,150.0,Admitted
+458,709,MRI,,Recovered
+459,1062,Blood Test,75.0,Admitted
+460,55,Physiotherapy,,Recovered
+461,1179,ECG,,Follow-up
+462,1606,X-Ray,100.0,Recovered
+463,1473,MRI,200.0,Follow-up
+464,1695,ECG,,Recovered
+465,1863,X-Ray,75.0,Recovered
+466,309,ECG,,Follow-up
+467,465,ECG,200.0,Recovered
+468,1831,Physiotherapy,200.0,Admitted
+469,357,Consultation,100.0,Follow-up
+470,1747,Blood Test,,Admitted
+471,1697,X-Ray,100.0,Recovered
+472,265,X-Ray,150.0,Follow-up
+473,179,Physiotherapy,100.0,Recovered
+474,962,Blood Test,50.0,Recovered
+475,1129,Blood Test,50.0,Admitted
+476,384,Blood Test,200.0,Follow-up
+477,1614,Consultation,200.0,Recovered
+478,1700,X-Ray,150.0,Recovered
+479,203,Consultation,150.0,Recovered
+480,320,Blood Test,50.0,Follow-up
+481,1321,Physiotherapy,75.0,Admitted
+482,1389,Physiotherapy,,Recovered
+483,1447,Consultation,150.0,Admitted
+484,1626,ECG,150.0,Admitted
+485,1561,MRI,200.0,Follow-up
+486,1597,Blood Test,150.0,Recovered
+487,665,Blood Test,100.0,Recovered
+488,298,X-Ray,75.0,Admitted
+489,313,X-Ray,75.0,Admitted
+490,1042,Consultation,,Recovered
+491,1545,Physiotherapy,100.0,Follow-up
+492,316,MRI,200.0,Admitted
+493,1758,ECG,200.0,Recovered
+494,1470,ECG,,Admitted
+495,1762,X-Ray,75.0,Admitted
+496,1963,MRI,150.0,Recovered
+497,773,X-Ray,200.0,Follow-up
+498,433,MRI,,Recovered
+499,1844,Blood Test,75.0,Admitted
+500,1619,ECG,150.0,Recovered
+501,137,ECG,50.0,Admitted
+502,114,MRI,150.0,Admitted
+503,1625,Blood Test,100.0,Recovered
+504,1696,X-Ray,50.0,Follow-up
+505,1371,MRI,75.0,Admitted
+506,1946,MRI,50.0,Admitted
+507,1151,MRI,75.0,Recovered
+508,1820,ECG,50.0,Recovered
+509,1587,Blood Test,75.0,Follow-up
+510,1354,Consultation,200.0,Follow-up
+511,1360,Blood Test,75.0,Admitted
+512,1697,ECG,150.0,Admitted
+513,749,Blood Test,50.0,Follow-up
+514,1497,MRI,150.0,Recovered
+515,741,MRI,100.0,Admitted
+516,149,X-Ray,,Admitted
+517,138,MRI,50.0,Follow-up
+518,1476,MRI,50.0,Recovered
+519,1160,ECG,100.0,Follow-up
+520,878,MRI,50.0,Admitted
+521,1912,ECG,50.0,Admitted
+522,1477,Blood Test,200.0,Recovered
+523,1211,MRI,150.0,Admitted
+524,1018,MRI,75.0,Recovered
+525,978,Consultation,75.0,Recovered
+526,520,X-Ray,150.0,Recovered
+527,1366,Consultation,50.0,Admitted
+528,1776,ECG,150.0,Recovered
+529,279,ECG,,Recovered
+530,307,MRI,50.0,Recovered
+531,1171,X-Ray,,Follow-up
+532,1856,Physiotherapy,150.0,Follow-up
+533,1090,Physiotherapy,,Follow-up
+534,832,Consultation,200.0,Admitted
+535,972,X-Ray,50.0,Recovered
+536,874,Blood Test,150.0,Recovered
+537,164,Physiotherapy,75.0,Recovered
+538,897,ECG,150.0,Admitted
+539,1566,Consultation,150.0,Follow-up
+540,1425,Physiotherapy,200.0,Admitted
+541,1274,Blood Test,,Admitted
+542,861,MRI,75.0,Admitted
+543,1917,X-Ray,,Admitted
+544,1171,ECG,,Follow-up
+545,416,Consultation,200.0,Recovered
+546,1291,Blood Test,100.0,Follow-up
+547,386,Consultation,200.0,Admitted
+548,1485,Physiotherapy,,Follow-up
+549,373,X-Ray,50.0,Recovered
+550,94,X-Ray,50.0,Admitted
+551,142,MRI,50.0,Follow-up
+552,996,Blood Test,100.0,Follow-up
+553,1154,ECG,150.0,Follow-up
+554,983,Consultation,,Recovered
+555,3,X-Ray,150.0,Admitted
+556,951,Blood Test,100.0,Follow-up
+557,1116,ECG,150.0,Follow-up
+558,822,MRI,200.0,Follow-up
+559,1215,Blood Test,100.0,Recovered
+560,860,X-Ray,150.0,Follow-up
+561,874,ECG,50.0,Follow-up
+562,1757,MRI,50.0,Recovered
+563,833,X-Ray,100.0,Follow-up
+564,1432,X-Ray,150.0,Recovered
+565,78,Physiotherapy,,Follow-up
+566,1997,MRI,200.0,Follow-up
+567,1263,X-Ray,150.0,Follow-up
+568,162,Consultation,,Admitted
+569,1332,MRI,75.0,Admitted
+570,1426,Blood Test,75.0,Follow-up
+571,422,Consultation,,Follow-up
+572,1216,Blood Test,,Recovered
+573,368,MRI,100.0,Recovered
+574,331,Physiotherapy,75.0,Follow-up
+575,847,ECG,75.0,Follow-up
+576,614,X-Ray,50.0,Follow-up
+577,1258,MRI,200.0,Admitted
+578,1741,Physiotherapy,200.0,Follow-up
+579,1253,Blood Test,100.0,Follow-up
+580,848,ECG,150.0,Recovered
+581,612,MRI,100.0,Follow-up
+582,1527,X-Ray,100.0,Admitted
+583,528,Consultation,100.0,Admitted
+584,249,Blood Test,200.0,Admitted
+585,1207,X-Ray,200.0,Recovered
+586,1708,ECG,100.0,Follow-up
+587,1185,Blood Test,100.0,Recovered
+588,1178,MRI,150.0,Follow-up
+589,36,Physiotherapy,,Admitted
+590,1433,Physiotherapy,75.0,Recovered
+591,460,Consultation,200.0,Follow-up
+592,1026,Blood Test,75.0,Admitted
+593,1481,Blood Test,,Recovered
+594,1179,ECG,200.0,Admitted
+595,1579,Physiotherapy,200.0,Follow-up
+596,205,X-Ray,75.0,Recovered
+597,1982,Consultation,200.0,Follow-up
+598,265,Consultation,,Recovered
+599,236,Blood Test,50.0,Follow-up
+600,670,MRI,200.0,Follow-up
+601,395,MRI,,Admitted
+602,1607,Blood Test,100.0,Follow-up
+603,968,Physiotherapy,75.0,Recovered
+604,77,X-Ray,50.0,Recovered
+605,619,MRI,200.0,Follow-up
+606,1738,MRI,150.0,Recovered
+607,304,ECG,200.0,Recovered
+608,1161,Consultation,50.0,Recovered
+609,1838,ECG,100.0,Recovered
+610,280,Consultation,75.0,Admitted
+611,1770,Blood Test,100.0,Follow-up
+612,1771,MRI,200.0,Admitted
+613,1219,Blood Test,75.0,Follow-up
+614,1193,MRI,,Admitted
+615,1720,Blood Test,50.0,Admitted
+616,1925,Blood Test,50.0,Admitted
+617,1249,X-Ray,50.0,Follow-up
+618,1446,MRI,200.0,Follow-up
+619,388,MRI,,Follow-up
+620,813,Blood Test,75.0,Recovered
+621,149,X-Ray,200.0,Admitted
+622,760,Consultation,75.0,Follow-up
+623,1824,X-Ray,75.0,Follow-up
+624,323,ECG,,Recovered
+625,69,X-Ray,75.0,Follow-up
+626,937,MRI,75.0,Follow-up
+627,833,X-Ray,,Recovered
+628,39,MRI,75.0,Admitted
+629,924,ECG,200.0,Follow-up
+630,1034,ECG,,Admitted
+631,1641,ECG,150.0,Admitted
+632,1703,Consultation,50.0,Admitted
+633,1621,ECG,100.0,Admitted
+634,1450,X-Ray,200.0,Follow-up
+635,782,Physiotherapy,50.0,Recovered
+636,1815,ECG,50.0,Admitted
+637,1358,Blood Test,150.0,Follow-up
+638,132,Blood Test,100.0,Recovered
+639,77,MRI,75.0,Follow-up
+640,120,X-Ray,75.0,Admitted
+641,1626,MRI,50.0,Recovered
+642,332,Physiotherapy,200.0,Follow-up
+643,865,Blood Test,100.0,Recovered
+644,919,MRI,,Recovered
+645,408,X-Ray,75.0,Admitted
+646,314,Physiotherapy,75.0,Recovered
+647,280,Consultation,75.0,Follow-up
+648,822,Physiotherapy,50.0,Recovered
+649,419,Consultation,75.0,Recovered
+650,450,X-Ray,100.0,Follow-up
+651,960,Blood Test,50.0,Admitted
+652,1418,Consultation,,Follow-up
+653,1605,Blood Test,100.0,Recovered
+654,897,Blood Test,75.0,Follow-up
+655,1249,Physiotherapy,100.0,Follow-up
+656,511,ECG,50.0,Recovered
+657,570,ECG,100.0,Recovered
+658,115,Consultation,75.0,Recovered
+659,1505,Physiotherapy,200.0,Follow-up
+660,1672,Blood Test,75.0,Recovered
+661,60,X-Ray,100.0,Admitted
+662,1880,X-Ray,50.0,Recovered
+663,1107,MRI,150.0,Recovered
+664,1939,Physiotherapy,,Recovered
+665,187,Blood Test,,Recovered
+666,1962,X-Ray,,Recovered
+667,600,Consultation,100.0,Recovered
+668,900,ECG,150.0,Follow-up
+669,1353,Physiotherapy,150.0,Admitted
+670,1590,Consultation,150.0,Admitted
+671,1303,ECG,150.0,Follow-up
+672,1690,MRI,150.0,Recovered
+673,1275,Physiotherapy,75.0,Follow-up
+674,103,Blood Test,100.0,Admitted
+675,1110,X-Ray,200.0,Follow-up
+676,316,ECG,150.0,Admitted
+677,304,MRI,200.0,Recovered
+678,369,X-Ray,100.0,Admitted
+679,83,Physiotherapy,,Follow-up
+680,790,Blood Test,200.0,Follow-up
+681,1460,MRI,200.0,Admitted
+682,1515,X-Ray,75.0,Follow-up
+683,511,ECG,75.0,Follow-up
+684,1175,Consultation,75.0,Recovered
+685,267,Consultation,50.0,Recovered
+686,245,Physiotherapy,150.0,Admitted
+687,86,X-Ray,,Follow-up
+688,1410,Physiotherapy,150.0,Admitted
+689,1258,Consultation,,Recovered
+690,931,Consultation,150.0,Follow-up
+691,1421,Consultation,,Recovered
+692,1226,X-Ray,100.0,Recovered
+693,1204,Physiotherapy,200.0,Follow-up
+694,1423,MRI,75.0,Admitted
+695,652,ECG,50.0,Follow-up
+696,209,X-Ray,75.0,Recovered
+697,1855,Blood Test,150.0,Admitted
+698,522,X-Ray,75.0,Admitted
+699,931,X-Ray,75.0,Recovered
+700,739,MRI,75.0,Recovered
+701,232,Blood Test,75.0,Follow-up
+702,1391,MRI,,Follow-up
+703,1211,ECG,150.0,Recovered
+704,1862,X-Ray,,Admitted
+705,4,ECG,200.0,Recovered
+706,415,MRI,100.0,Follow-up
+707,907,Consultation,100.0,Admitted
+708,1722,Physiotherapy,150.0,Admitted
+709,1228,Physiotherapy,100.0,Recovered
+710,555,Blood Test,50.0,Recovered
+711,22,MRI,200.0,Admitted
+712,774,Physiotherapy,,Follow-up
+713,147,Physiotherapy,100.0,Recovered
+714,1614,ECG,150.0,Follow-up
+715,528,Physiotherapy,,Recovered
+716,814,Blood Test,,Admitted
+717,429,X-Ray,200.0,Admitted
+718,649,Blood Test,75.0,Follow-up
+719,379,Blood Test,150.0,Follow-up
+720,654,X-Ray,75.0,Follow-up
+721,1162,X-Ray,50.0,Follow-up
+722,165,Blood Test,100.0,Admitted
+723,172,X-Ray,200.0,Recovered
+724,57,ECG,100.0,Admitted
+725,1486,X-Ray,75.0,Admitted
+726,586,Consultation,50.0,Follow-up
+727,1893,Blood Test,75.0,Recovered
+728,311,Physiotherapy,100.0,Follow-up
+729,1552,ECG,,Admitted
+730,824,X-Ray,150.0,Recovered
+731,949,ECG,,Recovered
+732,1323,Blood Test,75.0,Admitted
+733,1481,MRI,,Recovered
+734,88,Blood Test,150.0,Recovered
+735,687,ECG,100.0,Admitted
+736,1054,Consultation,,Admitted
+737,1129,MRI,50.0,Recovered
+738,420,ECG,50.0,Recovered
+739,1341,Physiotherapy,50.0,Recovered
+740,559,Physiotherapy,200.0,Recovered
+741,1443,X-Ray,50.0,Admitted
+742,172,X-Ray,75.0,Recovered
+743,1946,X-Ray,50.0,Follow-up
+744,1535,MRI,200.0,Admitted
+745,1868,Consultation,,Follow-up
+746,1103,X-Ray,150.0,Admitted
+747,855,Physiotherapy,150.0,Follow-up
+748,611,Consultation,50.0,Admitted
+749,225,Physiotherapy,100.0,Follow-up
+750,1140,Physiotherapy,50.0,Follow-up
+751,634,MRI,75.0,Admitted
+752,2,Consultation,150.0,Recovered
+753,1168,Physiotherapy,150.0,Follow-up
+754,1308,Physiotherapy,150.0,Recovered
+755,1704,MRI,200.0,Follow-up
+756,1590,ECG,150.0,Admitted
+757,823,MRI,150.0,Admitted
+758,637,ECG,50.0,Admitted
+759,892,ECG,75.0,Recovered
+760,607,ECG,75.0,Recovered
+761,1251,X-Ray,,Follow-up
+762,1657,X-Ray,75.0,Recovered
+763,396,X-Ray,50.0,Follow-up
+764,1414,Consultation,50.0,Follow-up
+765,335,Physiotherapy,100.0,Admitted
+766,445,Consultation,100.0,Admitted
+767,995,Physiotherapy,200.0,Admitted
+768,1774,Consultation,50.0,Follow-up
+769,1767,Physiotherapy,150.0,Recovered
+770,1691,Blood Test,200.0,Admitted
+771,1217,Physiotherapy,100.0,Admitted
+772,1415,Physiotherapy,50.0,Admitted
+773,330,Physiotherapy,,Recovered
+774,228,ECG,200.0,Recovered
+775,117,X-Ray,150.0,Follow-up
+776,840,Consultation,,Admitted
+777,1527,X-Ray,,Recovered
+778,128,Consultation,100.0,Recovered
+779,1532,X-Ray,200.0,Follow-up
+780,397,Physiotherapy,150.0,Recovered
+781,1788,Consultation,50.0,Follow-up
+782,1294,Consultation,100.0,Recovered
+783,554,X-Ray,200.0,Recovered
+784,1127,ECG,50.0,Follow-up
+785,1133,ECG,75.0,Follow-up
+786,1726,Physiotherapy,75.0,Admitted
+787,1595,Physiotherapy,200.0,Recovered
+788,123,Blood Test,150.0,Admitted
+789,1429,Blood Test,75.0,Follow-up
+790,1549,Blood Test,75.0,Recovered
+791,364,Physiotherapy,75.0,Admitted
+792,1249,Blood Test,,Recovered
+793,440,Blood Test,150.0,Admitted
+794,171,Physiotherapy,100.0,Admitted
+795,234,ECG,200.0,Follow-up
+796,363,Blood Test,150.0,Recovered
+797,508,Blood Test,200.0,Follow-up
+798,1977,Consultation,50.0,Recovered
+799,389,X-Ray,,Admitted
+800,1621,X-Ray,75.0,Recovered
+801,1469,Physiotherapy,75.0,Recovered
+802,1379,Physiotherapy,200.0,Admitted
+803,1989,X-Ray,100.0,Recovered
+804,945,ECG,200.0,Admitted
+805,1754,Consultation,200.0,Follow-up
+806,667,ECG,,Admitted
+807,41,Blood Test,150.0,Follow-up
+808,790,Consultation,,Recovered
+809,866,ECG,,Follow-up
+810,1691,Physiotherapy,75.0,Recovered
+811,1301,Physiotherapy,200.0,Recovered
+812,1754,ECG,100.0,Recovered
+813,1578,Consultation,200.0,Recovered
+814,957,Physiotherapy,150.0,Follow-up
+815,240,Blood Test,200.0,Admitted
+816,227,MRI,200.0,Follow-up
+817,1187,Physiotherapy,,Recovered
+818,1109,ECG,100.0,Follow-up
+819,1354,Blood Test,75.0,Admitted
+820,1384,Consultation,,Admitted
+821,309,ECG,150.0,Follow-up
+822,755,ECG,150.0,Admitted
+823,788,X-Ray,200.0,Follow-up
+824,1178,Consultation,75.0,Follow-up
+825,918,X-Ray,100.0,Admitted
+826,1039,Physiotherapy,200.0,Recovered
+827,704,MRI,75.0,Admitted
+828,559,ECG,150.0,Admitted
+829,1304,Consultation,150.0,Admitted
+830,611,X-Ray,200.0,Admitted
+831,47,Blood Test,100.0,Admitted
+832,974,X-Ray,200.0,Follow-up
+833,867,Physiotherapy,100.0,Recovered
+834,1566,Blood Test,200.0,Admitted
+835,812,Blood Test,50.0,Admitted
+836,8,Physiotherapy,200.0,Follow-up
+837,629,ECG,,Follow-up
+838,523,Physiotherapy,100.0,Admitted
+839,1266,Physiotherapy,100.0,Follow-up
+840,565,Consultation,200.0,Recovered
+841,1644,Physiotherapy,200.0,Follow-up
+842,231,Blood Test,150.0,Recovered
+843,592,Blood Test,200.0,Admitted
+844,704,X-Ray,150.0,Admitted
+845,1191,Physiotherapy,200.0,Recovered
+846,780,MRI,200.0,Admitted
+847,58,MRI,100.0,Follow-up
+848,21,Physiotherapy,75.0,Admitted
+849,1311,Physiotherapy,150.0,Recovered
+850,670,X-Ray,50.0,Recovered
+851,336,Blood Test,75.0,Follow-up
+852,81,Blood Test,150.0,Follow-up
+853,1133,Physiotherapy,50.0,Recovered
+854,1721,Physiotherapy,75.0,Follow-up
+855,1095,MRI,100.0,Admitted
+856,214,X-Ray,50.0,Admitted
+857,1797,Physiotherapy,200.0,Admitted
+858,390,ECG,50.0,Follow-up
+859,989,MRI,,Admitted
+860,1129,X-Ray,200.0,Admitted
+861,1510,Blood Test,100.0,Admitted
+862,218,Physiotherapy,100.0,Follow-up
+863,1773,X-Ray,50.0,Recovered
+864,1896,Blood Test,100.0,Recovered
+865,97,Consultation,75.0,Recovered
+866,1392,MRI,,Follow-up
+867,1557,ECG,150.0,Recovered
+868,1213,Physiotherapy,100.0,Admitted
+869,417,Consultation,100.0,Follow-up
+870,600,Consultation,200.0,Follow-up
+871,1572,Physiotherapy,75.0,Follow-up
+872,1109,ECG,100.0,Follow-up
+873,920,Physiotherapy,50.0,Admitted
+874,1559,Blood Test,,Recovered
+875,1339,Consultation,200.0,Follow-up
+876,332,Blood Test,,Recovered
+877,64,Consultation,,Recovered
+878,876,MRI,,Recovered
+879,98,X-Ray,100.0,Follow-up
+880,621,MRI,75.0,Admitted
+881,1220,Consultation,150.0,Follow-up
+882,562,ECG,100.0,Follow-up
+883,1145,Blood Test,100.0,Recovered
+884,617,Consultation,150.0,Recovered
+885,1613,X-Ray,50.0,Follow-up
+886,1865,MRI,200.0,Admitted
+887,894,Blood Test,75.0,Follow-up
+888,1910,Blood Test,75.0,Recovered
+889,1923,X-Ray,50.0,Admitted
+890,17,MRI,75.0,Recovered
+891,1909,ECG,,Admitted
+892,604,Blood Test,50.0,Follow-up
+893,1022,MRI,150.0,Follow-up
+894,622,Physiotherapy,100.0,Admitted
+895,1609,MRI,100.0,Admitted
+896,457,Physiotherapy,150.0,Follow-up
+897,350,Consultation,75.0,Admitted
+898,462,MRI,50.0,Follow-up
+899,1701,Consultation,75.0,Follow-up
+900,683,ECG,100.0,Recovered
+901,209,X-Ray,,Admitted
+902,116,Consultation,,Recovered
+903,808,X-Ray,,Recovered
+904,1939,Consultation,50.0,Admitted
+905,1596,Blood Test,75.0,Admitted
+906,294,ECG,150.0,Follow-up
+907,322,Blood Test,100.0,Admitted
+908,1316,Physiotherapy,,Recovered
+909,1265,MRI,200.0,Follow-up
+910,1459,ECG,100.0,Admitted
+911,666,X-Ray,75.0,Admitted
+912,1370,MRI,75.0,Admitted
+913,1724,MRI,75.0,Admitted
+914,1760,MRI,50.0,Follow-up
+915,237,Physiotherapy,100.0,Follow-up
+916,755,Physiotherapy,50.0,Follow-up
+917,137,Consultation,100.0,Recovered
+918,1084,ECG,50.0,Follow-up
+919,632,Physiotherapy,50.0,Follow-up
+920,918,Blood Test,100.0,Follow-up
+921,966,X-Ray,100.0,Admitted
+922,440,MRI,75.0,Follow-up
+923,898,Physiotherapy,,Admitted
+924,1748,ECG,100.0,Recovered
+925,1707,Blood Test,50.0,Follow-up
+926,1190,MRI,,Admitted
+927,941,X-Ray,100.0,Follow-up
+928,1736,Physiotherapy,75.0,Recovered
+929,683,X-Ray,150.0,Admitted
+930,1095,Consultation,75.0,Recovered
+931,256,Physiotherapy,75.0,Follow-up
+932,171,Consultation,,Recovered
+933,491,ECG,200.0,Admitted
+934,374,Blood Test,50.0,Admitted
+935,972,Physiotherapy,200.0,Recovered
+936,1664,Physiotherapy,50.0,Follow-up
+937,1627,X-Ray,150.0,Admitted
+938,974,X-Ray,50.0,Follow-up
+939,1695,Physiotherapy,150.0,Recovered
+940,648,ECG,50.0,Follow-up
+941,372,Consultation,150.0,Admitted
+942,627,Blood Test,100.0,Admitted
+943,436,MRI,,Recovered
+944,989,Physiotherapy,50.0,Recovered
+945,1049,Physiotherapy,50.0,Follow-up
+946,871,ECG,150.0,Recovered
+947,600,MRI,150.0,Follow-up
+948,180,ECG,150.0,Follow-up
+949,1521,Blood Test,75.0,Admitted
+950,1657,Blood Test,200.0,Recovered
+951,636,X-Ray,75.0,Follow-up
+952,280,Physiotherapy,200.0,Admitted
+953,527,Blood Test,,Follow-up
+954,537,MRI,50.0,Admitted
+955,1204,Physiotherapy,200.0,Recovered
+956,1413,Consultation,50.0,Recovered
+957,1091,Physiotherapy,200.0,Follow-up
+958,983,X-Ray,200.0,Recovered
+959,1089,X-Ray,,Admitted
+960,698,X-Ray,50.0,Admitted
+961,175,Physiotherapy,200.0,Follow-up
+962,1359,Physiotherapy,100.0,Follow-up
+963,349,ECG,100.0,Follow-up
+964,568,ECG,200.0,Admitted
+965,610,Physiotherapy,,Admitted
+966,1484,Blood Test,200.0,Follow-up
+967,898,X-Ray,200.0,Follow-up
+968,1688,Blood Test,100.0,Admitted
+969,1455,Physiotherapy,100.0,Admitted
+970,259,Physiotherapy,,Recovered
+971,1726,Physiotherapy,50.0,Recovered
+972,294,Consultation,150.0,Admitted
+973,1196,Blood Test,,Admitted
+974,1248,ECG,,Admitted
+975,1718,Consultation,75.0,Follow-up
+976,1084,Physiotherapy,75.0,Admitted
+977,1247,Blood Test,50.0,Follow-up
+978,30,MRI,200.0,Admitted
+979,613,MRI,100.0,Recovered
+980,1618,MRI,75.0,Follow-up
+981,1017,X-Ray,200.0,Follow-up
+982,1072,Consultation,50.0,Recovered
+983,1488,X-Ray,,Recovered
+984,430,Physiotherapy,200.0,Follow-up
+985,1541,Blood Test,200.0,Recovered
+986,1588,Consultation,200.0,Recovered
+987,1249,Blood Test,200.0,Recovered
+988,564,MRI,200.0,Recovered
+989,1818,Consultation,,Admitted
+990,1345,ECG,200.0,Admitted
+991,1733,X-Ray,50.0,Follow-up
+992,959,Physiotherapy,50.0,Follow-up
+993,647,X-Ray,200.0,Follow-up
+994,1894,Blood Test,200.0,Recovered
+995,453,MRI,50.0,Admitted
+996,1698,ECG,100.0,Admitted
+997,1034,Physiotherapy,50.0,Admitted
+998,952,ECG,50.0,Admitted
+999,653,X-Ray,75.0,Admitted
+1000,809,Consultation,,Admitted
+1001,249,Consultation,200.0,Recovered
+1002,1613,Physiotherapy,50.0,Recovered
+1003,510,Physiotherapy,75.0,Admitted
+1004,972,MRI,75.0,Admitted
+1005,1774,MRI,100.0,Recovered
+1006,499,ECG,150.0,Recovered
+1007,1176,Consultation,,Admitted
+1008,672,Physiotherapy,50.0,Admitted
+1009,1469,Consultation,50.0,Follow-up
+1010,672,Consultation,75.0,Follow-up
+1011,435,ECG,150.0,Recovered
+1012,821,Consultation,100.0,Admitted
+1013,1629,Physiotherapy,150.0,Recovered
+1014,777,Blood Test,75.0,Follow-up
+1015,162,X-Ray,,Follow-up
+1016,1044,ECG,200.0,Follow-up
+1017,1164,X-Ray,75.0,Follow-up
+1018,496,Physiotherapy,50.0,Admitted
+1019,15,ECG,100.0,Admitted
+1020,659,Blood Test,50.0,Follow-up
+1021,1297,MRI,150.0,Admitted
+1022,505,Consultation,,Follow-up
+1023,1763,Blood Test,150.0,Recovered
+1024,1198,Blood Test,200.0,Recovered
+1025,732,MRI,50.0,Recovered
+1026,778,MRI,75.0,Follow-up
+1027,1959,ECG,200.0,Recovered
+1028,1352,X-Ray,200.0,Recovered
+1029,966,Blood Test,75.0,Follow-up
+1030,58,X-Ray,200.0,Admitted
+1031,864,ECG,150.0,Follow-up
+1032,10,MRI,75.0,Follow-up
+1033,363,Physiotherapy,50.0,Follow-up
+1034,1654,MRI,100.0,Recovered
+1035,1674,ECG,,Follow-up
+1036,157,Consultation,50.0,Admitted
+1037,1427,Blood Test,100.0,Admitted
+1038,1827,X-Ray,100.0,Admitted
+1039,1787,ECG,100.0,Follow-up
+1040,1697,MRI,50.0,Follow-up
+1041,1973,Consultation,50.0,Recovered
+1042,1371,Physiotherapy,200.0,Recovered
+1043,278,Blood Test,75.0,Recovered
+1044,541,X-Ray,150.0,Follow-up
+1045,428,Blood Test,75.0,Admitted
+1046,1787,Consultation,100.0,Admitted
+1047,531,ECG,100.0,Follow-up
+1048,238,Physiotherapy,200.0,Recovered
+1049,1213,MRI,75.0,Recovered
+1050,1179,Blood Test,200.0,Recovered
+1051,857,Blood Test,150.0,Follow-up
+1052,1424,ECG,200.0,Admitted
+1053,1977,ECG,50.0,Admitted
+1054,356,X-Ray,200.0,Admitted
+1055,1564,MRI,200.0,Admitted
+1056,931,MRI,100.0,Follow-up
+1057,230,ECG,75.0,Follow-up
+1058,1102,ECG,150.0,Recovered
+1059,1733,Blood Test,50.0,Follow-up
+1060,545,X-Ray,50.0,Admitted
+1061,1983,Blood Test,200.0,Admitted
+1062,246,Consultation,150.0,Follow-up
+1063,1589,ECG,50.0,Recovered
+1064,625,X-Ray,200.0,Admitted
+1065,1557,Physiotherapy,50.0,Admitted
+1066,1011,X-Ray,200.0,Follow-up
+1067,908,ECG,,Follow-up
+1068,1970,Physiotherapy,75.0,Admitted
+1069,480,X-Ray,150.0,Follow-up
+1070,1559,Blood Test,150.0,Recovered
+1071,1699,MRI,50.0,Recovered
+1072,1470,Consultation,200.0,Recovered
+1073,1276,Consultation,100.0,Recovered
+1074,1050,ECG,150.0,Recovered
+1075,382,Physiotherapy,75.0,Follow-up
+1076,273,MRI,100.0,Recovered
+1077,1987,Consultation,100.0,Recovered
+1078,1342,X-Ray,75.0,Recovered
+1079,1252,Consultation,,Admitted
+1080,730,Blood Test,150.0,Recovered
+1081,15,MRI,100.0,Recovered
+1082,41,Consultation,,Admitted
+1083,1014,ECG,200.0,Admitted
+1084,558,Consultation,200.0,Recovered
+1085,327,MRI,100.0,Recovered
+1086,1721,Physiotherapy,,Recovered
+1087,122,Physiotherapy,150.0,Admitted
+1088,1262,MRI,50.0,Admitted
+1089,1892,X-Ray,75.0,Follow-up
+1090,1115,Blood Test,50.0,Admitted
+1091,1496,ECG,200.0,Follow-up
+1092,310,ECG,150.0,Follow-up
+1093,1773,Physiotherapy,150.0,Recovered
+1094,376,X-Ray,100.0,Recovered
+1095,1016,MRI,75.0,Recovered
+1096,594,Consultation,100.0,Admitted
+1097,1323,ECG,75.0,Recovered
+1098,859,Consultation,50.0,Admitted
+1099,1697,Physiotherapy,50.0,Recovered
+1100,395,MRI,150.0,Admitted
+1101,884,Consultation,,Follow-up
+1102,441,Consultation,150.0,Recovered
+1103,306,Physiotherapy,150.0,Follow-up
+1104,1423,ECG,75.0,Recovered
+1105,1914,X-Ray,50.0,Recovered
+1106,1218,MRI,75.0,Follow-up
+1107,1830,Blood Test,,Recovered
+1108,144,Physiotherapy,100.0,Recovered
+1109,839,Physiotherapy,200.0,Recovered
+1110,21,MRI,150.0,Follow-up
+1111,1239,MRI,50.0,Recovered
+1112,197,Blood Test,75.0,Recovered
+1113,684,Physiotherapy,50.0,Recovered
+1114,1636,Blood Test,75.0,Admitted
+1115,946,Consultation,75.0,Recovered
+1116,1341,Blood Test,75.0,Recovered
+1117,192,Consultation,75.0,Admitted
+1118,1666,Blood Test,200.0,Recovered
+1119,1523,Physiotherapy,150.0,Recovered
+1120,1342,Blood Test,150.0,Recovered
+1121,381,Consultation,50.0,Follow-up
+1122,648,ECG,100.0,Admitted
+1123,835,Consultation,150.0,Recovered
+1124,1167,X-Ray,200.0,Recovered
+1125,971,Consultation,150.0,Follow-up
+1126,628,X-Ray,150.0,Recovered
+1127,297,X-Ray,100.0,Follow-up
+1128,1755,X-Ray,75.0,Follow-up
+1129,296,Consultation,,Follow-up
+1130,32,X-Ray,100.0,Recovered
+1131,440,Physiotherapy,100.0,Recovered
+1132,291,ECG,,Admitted
+1133,35,Physiotherapy,100.0,Follow-up
+1134,1520,Blood Test,150.0,Recovered
+1135,770,Physiotherapy,50.0,Recovered
+1136,1382,X-Ray,150.0,Admitted
+1137,1282,MRI,100.0,Recovered
+1138,461,X-Ray,150.0,Follow-up
+1139,162,ECG,150.0,Admitted
+1140,1676,MRI,,Admitted
+1141,50,ECG,75.0,Follow-up
+1142,1942,MRI,,Follow-up
+1143,1197,Physiotherapy,100.0,Recovered
+1144,783,Consultation,75.0,Recovered
+1145,218,Physiotherapy,,Recovered
+1146,655,Physiotherapy,200.0,Recovered
+1147,350,Blood Test,200.0,Follow-up
+1148,1552,ECG,100.0,Admitted
+1149,1243,Physiotherapy,150.0,Follow-up
+1150,981,Physiotherapy,150.0,Admitted
+1151,1382,Blood Test,75.0,Recovered
+1152,950,Blood Test,50.0,Recovered
+1153,1025,Physiotherapy,100.0,Follow-up
+1154,935,MRI,50.0,Admitted
+1155,1535,X-Ray,150.0,Admitted
+1156,1142,Consultation,200.0,Recovered
+1157,1172,Consultation,150.0,Follow-up
+1158,1270,Physiotherapy,75.0,Recovered
+1159,896,MRI,50.0,Recovered
+1160,827,Physiotherapy,,Admitted
+1161,1565,Physiotherapy,75.0,Follow-up
+1162,1246,ECG,,Recovered
+1163,1708,X-Ray,100.0,Recovered
+1164,571,Physiotherapy,100.0,Admitted
+1165,896,MRI,150.0,Recovered
+1166,1033,X-Ray,50.0,Recovered
+1167,1176,Physiotherapy,150.0,Follow-up
+1168,562,Blood Test,75.0,Recovered
+1169,1464,Consultation,75.0,Recovered
+1170,341,X-Ray,,Admitted
+1171,1007,ECG,,Recovered
+1172,1775,Consultation,100.0,Follow-up
+1173,4,X-Ray,75.0,Recovered
+1174,125,Consultation,50.0,Admitted
+1175,1063,Blood Test,75.0,Follow-up
+1176,1524,ECG,150.0,Follow-up
+1177,491,Physiotherapy,50.0,Admitted
+1178,10,Consultation,200.0,Admitted
+1179,1171,Physiotherapy,50.0,Recovered
+1180,517,Consultation,150.0,Recovered
+1181,48,Physiotherapy,50.0,Follow-up
+1182,1163,ECG,,Recovered
+1183,1681,X-Ray,75.0,Admitted
+1184,1013,X-Ray,150.0,Admitted
+1185,1704,Physiotherapy,,Admitted
+1186,1936,Physiotherapy,,Follow-up
+1187,1516,ECG,200.0,Recovered
+1188,796,Consultation,200.0,Admitted
+1189,690,MRI,200.0,Recovered
+1190,1931,Physiotherapy,150.0,Follow-up
+1191,529,Blood Test,75.0,Recovered
+1192,104,Consultation,200.0,Admitted
+1193,1055,MRI,,Recovered
+1194,511,Blood Test,50.0,Recovered
+1195,1481,X-Ray,150.0,Recovered
+1196,1904,Consultation,200.0,Recovered
+1197,652,Consultation,,Admitted
+1198,1138,ECG,100.0,Admitted
+1199,531,MRI,200.0,Recovered
+1200,1555,Physiotherapy,100.0,Recovered
+1201,1993,Consultation,75.0,Admitted
+1202,533,ECG,50.0,Recovered
+1203,744,X-Ray,100.0,Recovered
+1204,569,Blood Test,150.0,Recovered
+1205,915,MRI,150.0,Admitted
+1206,1244,Physiotherapy,100.0,Follow-up
+1207,1192,ECG,100.0,Follow-up
+1208,885,Blood Test,75.0,Admitted
+1209,110,Consultation,50.0,Admitted
+1210,283,MRI,,Admitted
+1211,33,X-Ray,,Admitted
+1212,1865,Consultation,,Admitted
+1213,312,X-Ray,,Recovered
+1214,1052,Blood Test,200.0,Follow-up
+1215,1983,Consultation,75.0,Follow-up
+1216,289,Consultation,200.0,Follow-up
+1217,1026,Consultation,150.0,Follow-up
+1218,1411,MRI,75.0,Follow-up
+1219,466,MRI,,Recovered
+1220,843,MRI,75.0,Recovered
+1221,706,Blood Test,50.0,Recovered
+1222,604,Consultation,75.0,Admitted
+1223,194,Physiotherapy,75.0,Admitted
+1224,1437,MRI,50.0,Admitted
+1225,238,ECG,150.0,Recovered
+1226,1287,X-Ray,,Follow-up
+1227,709,Physiotherapy,50.0,Follow-up
+1228,1364,Blood Test,50.0,Recovered
+1229,125,Blood Test,200.0,Recovered
+1230,449,Consultation,100.0,Follow-up
+1231,837,Consultation,50.0,Recovered
+1232,262,Physiotherapy,75.0,Admitted
+1233,294,Blood Test,50.0,Recovered
+1234,184,ECG,,Recovered
+1235,411,X-Ray,200.0,Admitted
+1236,1895,ECG,150.0,Recovered
+1237,719,Consultation,75.0,Recovered
+1238,1342,MRI,200.0,Admitted
+1239,767,Consultation,150.0,Admitted
+1240,880,Blood Test,100.0,Recovered
+1241,1958,ECG,100.0,Follow-up
+1242,782,ECG,50.0,Follow-up
+1243,1342,X-Ray,75.0,Follow-up
+1244,859,X-Ray,,Follow-up
+1245,785,Consultation,50.0,Admitted
+1246,181,MRI,75.0,Recovered
+1247,750,Blood Test,,Admitted
+1248,1636,ECG,75.0,Admitted
+1249,634,Blood Test,75.0,Follow-up
+1250,482,MRI,200.0,Follow-up
+1251,171,Blood Test,150.0,Admitted
+1252,347,X-Ray,100.0,Recovered
+1253,1535,ECG,75.0,Follow-up
+1254,1369,X-Ray,150.0,Follow-up
+1255,8,Physiotherapy,150.0,Follow-up
+1256,1441,Blood Test,100.0,Admitted
+1257,1604,Blood Test,75.0,Recovered
+1258,566,Consultation,200.0,Follow-up
+1259,1811,Blood Test,200.0,Follow-up
+1260,1046,MRI,200.0,Follow-up
+1261,970,Blood Test,50.0,Admitted
+1262,327,Physiotherapy,50.0,Admitted
+1263,426,MRI,50.0,Recovered
+1264,846,Consultation,200.0,Follow-up
+1265,1026,Physiotherapy,150.0,Follow-up
+1266,1994,X-Ray,75.0,Recovered
+1267,642,MRI,75.0,Follow-up
+1268,110,MRI,,Follow-up
+1269,1800,ECG,150.0,Admitted
+1270,313,Consultation,75.0,Recovered
+1271,689,ECG,150.0,Follow-up
+1272,1239,ECG,100.0,Recovered
+1273,731,MRI,200.0,Recovered
+1274,36,Blood Test,,Admitted
+1275,567,MRI,,Recovered
+1276,1570,Consultation,50.0,Admitted
+1277,1455,Physiotherapy,150.0,Recovered
+1278,1120,Physiotherapy,50.0,Admitted
+1279,301,Blood Test,75.0,Recovered
+1280,1756,ECG,150.0,Recovered
+1281,629,X-Ray,100.0,Admitted
+1282,1202,MRI,200.0,Admitted
+1283,1652,X-Ray,,Recovered
+1284,1082,Physiotherapy,100.0,Admitted
+1285,1642,Blood Test,200.0,Recovered
+1286,830,Blood Test,100.0,Recovered
+1287,712,Consultation,50.0,Recovered
+1288,373,Consultation,75.0,Follow-up
+1289,637,X-Ray,,Admitted
+1290,572,Consultation,,Recovered
+1291,507,Consultation,50.0,Admitted
+1292,823,Consultation,100.0,Admitted
+1293,1524,Physiotherapy,150.0,Recovered
+1294,1688,X-Ray,150.0,Recovered
+1295,206,ECG,,Admitted
+1296,1787,Physiotherapy,150.0,Recovered
+1297,120,X-Ray,75.0,Recovered
+1298,1432,X-Ray,50.0,Admitted
+1299,915,Physiotherapy,200.0,Admitted
+1300,1238,Consultation,50.0,Recovered
+1301,1654,MRI,50.0,Recovered
+1302,430,MRI,150.0,Recovered
+1303,493,Consultation,,Follow-up
+1304,1531,Consultation,200.0,Follow-up
+1305,1561,ECG,200.0,Follow-up
+1306,94,ECG,50.0,Admitted
+1307,1552,Blood Test,75.0,Follow-up
+1308,1401,ECG,200.0,Recovered
+1309,1479,Physiotherapy,100.0,Recovered
+1310,1192,ECG,100.0,Admitted
+1311,956,Physiotherapy,100.0,Follow-up
+1312,1887,Consultation,,Recovered
+1313,158,X-Ray,150.0,Follow-up
+1314,458,MRI,200.0,Recovered
+1315,1447,Consultation,50.0,Follow-up
+1316,1890,X-Ray,200.0,Admitted
+1317,1385,Blood Test,200.0,Admitted
+1318,8,Blood Test,75.0,Follow-up
+1319,1227,Consultation,,Recovered
+1320,959,Consultation,150.0,Recovered
+1321,874,Consultation,200.0,Admitted
+1322,1049,Consultation,200.0,Follow-up
+1323,1999,X-Ray,75.0,Recovered
+1324,1387,Physiotherapy,200.0,Admitted
+1325,787,MRI,150.0,Follow-up
+1326,1587,Consultation,200.0,Recovered
+1327,994,MRI,75.0,Recovered
+1328,917,Blood Test,200.0,Recovered
+1329,1843,Consultation,75.0,Follow-up
+1330,1121,Consultation,,Admitted
+1331,1468,Physiotherapy,100.0,Follow-up
+1332,954,Physiotherapy,50.0,Recovered
+1333,348,ECG,100.0,Admitted
+1334,1778,MRI,75.0,Recovered
+1335,437,Blood Test,75.0,Recovered
+1336,1988,Consultation,150.0,Admitted
+1337,78,Blood Test,200.0,Admitted
+1338,1564,Blood Test,200.0,Follow-up
+1339,1735,Blood Test,100.0,Follow-up
+1340,1365,Blood Test,50.0,Follow-up
+1341,1641,Blood Test,,Admitted
+1342,731,Consultation,150.0,Admitted
+1343,1414,Consultation,75.0,Admitted
+1344,1741,MRI,,Admitted
+1345,1925,X-Ray,50.0,Follow-up
+1346,113,ECG,50.0,Follow-up
+1347,1833,MRI,75.0,Follow-up
+1348,149,Consultation,150.0,Recovered
+1349,446,X-Ray,100.0,Recovered
+1350,1928,ECG,200.0,Follow-up
+1351,1829,X-Ray,100.0,Recovered
+1352,1440,ECG,,Recovered
+1353,1270,Physiotherapy,75.0,Admitted
+1354,281,MRI,200.0,Follow-up
+1355,1031,Consultation,75.0,Recovered
+1356,21,MRI,50.0,Admitted
+1357,871,Physiotherapy,50.0,Recovered
+1358,648,X-Ray,50.0,Recovered
+1359,207,MRI,50.0,Follow-up
+1360,976,ECG,100.0,Admitted
+1361,1127,Blood Test,,Follow-up
+1362,828,ECG,75.0,Recovered
+1363,1368,Physiotherapy,100.0,Recovered
+1364,635,Physiotherapy,50.0,Recovered
+1365,7,MRI,50.0,Recovered
+1366,1804,MRI,150.0,Follow-up
+1367,532,X-Ray,150.0,Admitted
+1368,1680,Physiotherapy,150.0,Recovered
+1369,656,Blood Test,75.0,Admitted
+1370,691,MRI,,Recovered
+1371,281,Physiotherapy,50.0,Follow-up
+1372,1859,Blood Test,100.0,Recovered
+1373,275,X-Ray,200.0,Follow-up
+1374,1567,Physiotherapy,150.0,Admitted
+1375,202,MRI,100.0,Follow-up
+1376,317,Blood Test,,Recovered
+1377,1562,ECG,200.0,Follow-up
+1378,330,X-Ray,,Follow-up
+1379,39,X-Ray,100.0,Follow-up
+1380,892,ECG,100.0,Follow-up
+1381,866,Blood Test,150.0,Recovered
+1382,76,MRI,50.0,Follow-up
+1383,209,Consultation,150.0,Recovered
+1384,126,Physiotherapy,150.0,Recovered
+1385,741,Blood Test,100.0,Admitted
+1386,985,Physiotherapy,,Recovered
+1387,986,ECG,,Recovered
+1388,444,Consultation,150.0,Follow-up
+1389,629,X-Ray,200.0,Recovered
+1390,1590,X-Ray,150.0,Follow-up
+1391,1683,Consultation,100.0,Admitted
+1392,1734,MRI,,Follow-up
+1393,1376,X-Ray,150.0,Recovered
+1394,332,Physiotherapy,75.0,Follow-up
+1395,532,Blood Test,,Admitted
+1396,825,X-Ray,150.0,Recovered
+1397,1137,Physiotherapy,100.0,Recovered
+1398,919,Blood Test,150.0,Follow-up
+1399,279,Consultation,150.0,Admitted
+1400,1828,Blood Test,,Recovered
+1401,295,Blood Test,50.0,Admitted
+1402,423,MRI,75.0,Admitted
+1403,1124,Blood Test,150.0,Follow-up
+1404,1417,X-Ray,100.0,Admitted
+1405,257,X-Ray,200.0,Follow-up
+1406,1479,Physiotherapy,150.0,Admitted
+1407,107,Blood Test,,Admitted
+1408,62,MRI,200.0,Admitted
+1409,806,Physiotherapy,,Recovered
+1410,362,Consultation,,Follow-up
+1411,1598,MRI,75.0,Follow-up
+1412,13,MRI,50.0,Admitted
+1413,1075,Physiotherapy,75.0,Follow-up
+1414,410,Physiotherapy,150.0,Admitted
+1415,172,MRI,200.0,Follow-up
+1416,879,MRI,50.0,Follow-up
+1417,393,ECG,,Admitted
+1418,659,Blood Test,150.0,Recovered
+1419,1509,Blood Test,200.0,Admitted
+1420,1806,Blood Test,150.0,Admitted
+1421,695,MRI,100.0,Recovered
+1422,894,Consultation,200.0,Admitted
+1423,1767,Consultation,75.0,Admitted
+1424,532,X-Ray,75.0,Follow-up
+1425,431,Blood Test,,Recovered
+1426,933,ECG,75.0,Recovered
+1427,123,ECG,75.0,Recovered
+1428,1933,ECG,75.0,Follow-up
+1429,212,Consultation,50.0,Follow-up
+1430,1701,MRI,,Follow-up
+1431,873,Physiotherapy,50.0,Follow-up
+1432,219,Blood Test,75.0,Recovered
+1433,1597,MRI,75.0,Admitted
+1434,1809,Physiotherapy,100.0,Recovered
+1435,592,MRI,200.0,Follow-up
+1436,1182,Physiotherapy,75.0,Recovered
+1437,768,X-Ray,50.0,Follow-up
+1438,1957,Physiotherapy,50.0,Recovered
+1439,1198,X-Ray,75.0,Recovered
+1440,1841,X-Ray,,Follow-up
+1441,1969,Physiotherapy,200.0,Recovered
+1442,196,MRI,75.0,Admitted
+1443,815,MRI,150.0,Recovered
+1444,125,Blood Test,200.0,Recovered
+1445,1779,Consultation,150.0,Follow-up
+1446,1810,Consultation,75.0,Recovered
+1447,820,X-Ray,150.0,Recovered
+1448,1819,MRI,,Recovered
+1449,1928,Consultation,100.0,Admitted
+1450,407,X-Ray,75.0,Follow-up
+1451,1711,Blood Test,75.0,Follow-up
+1452,1878,MRI,150.0,Admitted
+1453,459,Consultation,150.0,Recovered
+1454,1154,MRI,150.0,Follow-up
+1455,495,Physiotherapy,50.0,Admitted
+1456,456,Physiotherapy,50.0,Admitted
+1457,815,MRI,100.0,Recovered
+1458,321,MRI,200.0,Admitted
+1459,1255,Physiotherapy,100.0,Recovered
+1460,1432,Physiotherapy,75.0,Admitted
+1461,1239,X-Ray,75.0,Follow-up
+1462,1436,X-Ray,150.0,Recovered
+1463,1108,Consultation,75.0,Admitted
+1464,242,Blood Test,75.0,Follow-up
+1465,1336,Consultation,100.0,Admitted
+1466,1674,Blood Test,50.0,Recovered
+1467,1701,Blood Test,,Follow-up
+1468,927,Blood Test,,Follow-up
+1469,1688,X-Ray,150.0,Recovered
+1470,1133,ECG,100.0,Follow-up
+1471,421,Physiotherapy,150.0,Follow-up
+1472,1277,ECG,,Admitted
+1473,766,Consultation,150.0,Admitted
+1474,2,Physiotherapy,200.0,Follow-up
+1475,618,Consultation,150.0,Admitted
+1476,1015,MRI,150.0,Recovered
+1477,348,Consultation,200.0,Recovered
+1478,1363,ECG,50.0,Admitted
+1479,1966,X-Ray,200.0,Recovered
+1480,340,X-Ray,50.0,Follow-up
+1481,1591,MRI,75.0,Admitted
+1482,67,MRI,100.0,Admitted
+1483,1173,Consultation,200.0,Recovered
+1484,356,X-Ray,100.0,Recovered
+1485,507,X-Ray,75.0,Recovered
+1486,1961,X-Ray,75.0,Follow-up
+1487,138,Consultation,75.0,Follow-up
+1488,1856,ECG,100.0,Follow-up
+1489,1748,Consultation,50.0,Admitted
+1490,1812,ECG,75.0,Follow-up
+1491,581,MRI,,Admitted
+1492,1839,Consultation,75.0,Follow-up
+1493,1190,Physiotherapy,200.0,Admitted
+1494,584,ECG,75.0,Admitted
+1495,397,X-Ray,75.0,Recovered
+1496,604,X-Ray,150.0,Recovered
+1497,1213,Blood Test,75.0,Recovered
+1498,1663,Physiotherapy,50.0,Follow-up
+1499,1156,ECG,,Admitted
+1500,1322,X-Ray,50.0,Recovered
+1501,1704,MRI,100.0,Recovered
+1502,332,Physiotherapy,50.0,Follow-up
+1503,1598,MRI,200.0,Follow-up
+1504,642,Physiotherapy,200.0,Admitted
+1505,275,Consultation,50.0,Recovered
+1506,498,Blood Test,150.0,Recovered
+1507,155,Blood Test,150.0,Follow-up
+1508,1205,MRI,100.0,Recovered
+1509,135,Consultation,150.0,Recovered
+1510,1220,MRI,,Recovered
+1511,1160,X-Ray,150.0,Follow-up
+1512,1275,Consultation,200.0,Recovered
+1513,371,Blood Test,150.0,Recovered
+1514,1440,X-Ray,50.0,Follow-up
+1515,763,X-Ray,,Follow-up
+1516,263,Blood Test,100.0,Follow-up
+1517,653,X-Ray,,Admitted
+1518,1290,Blood Test,100.0,Follow-up
+1519,211,X-Ray,,Recovered
+1520,1824,Physiotherapy,150.0,Recovered
+1521,919,X-Ray,50.0,Recovered
+1522,1170,Physiotherapy,75.0,Admitted
+1523,1520,Physiotherapy,100.0,Follow-up
+1524,1792,X-Ray,100.0,Recovered
+1525,392,X-Ray,,Recovered
+1526,129,MRI,,Recovered
+1527,1762,MRI,100.0,Recovered
+1528,651,Consultation,100.0,Recovered
+1529,1475,X-Ray,50.0,Admitted
+1530,1311,Consultation,100.0,Recovered
+1531,1365,Consultation,200.0,Follow-up
+1532,994,Physiotherapy,150.0,Admitted
+1533,287,MRI,150.0,Admitted
+1534,1995,X-Ray,100.0,Admitted
+1535,1519,MRI,75.0,Recovered
+1536,1989,Consultation,200.0,Admitted
+1537,484,ECG,100.0,Admitted
+1538,1635,ECG,100.0,Admitted
+1539,1909,Physiotherapy,50.0,Admitted
+1540,370,ECG,50.0,Follow-up
+1541,1581,Physiotherapy,150.0,Follow-up
+1542,85,Blood Test,150.0,Admitted
+1543,783,Physiotherapy,75.0,Recovered
+1544,1804,X-Ray,75.0,Admitted
+1545,1208,Physiotherapy,150.0,Follow-up
+1546,196,MRI,200.0,Recovered
+1547,340,MRI,150.0,Admitted
+1548,1112,ECG,100.0,Follow-up
+1549,564,Consultation,200.0,Follow-up
+1550,1304,Physiotherapy,100.0,Admitted
+1551,1080,Physiotherapy,75.0,Admitted
+1552,1109,X-Ray,100.0,Admitted
+1553,896,ECG,150.0,Recovered
+1554,829,X-Ray,50.0,Admitted
+1555,1041,MRI,150.0,Follow-up
+1556,257,ECG,200.0,Recovered
+1557,743,MRI,75.0,Admitted
+1558,1792,MRI,,Follow-up
+1559,165,Physiotherapy,150.0,Recovered
+1560,1138,X-Ray,75.0,Recovered
+1561,1781,MRI,50.0,Recovered
+1562,1093,X-Ray,100.0,Admitted
+1563,1630,ECG,,Follow-up
+1564,345,MRI,150.0,Recovered
+1565,1132,Blood Test,75.0,Admitted
+1566,1558,MRI,75.0,Admitted
+1567,27,Consultation,75.0,Recovered
+1568,504,MRI,50.0,Follow-up
+1569,1167,Physiotherapy,75.0,Admitted
+1570,24,Consultation,200.0,Admitted
+1571,1342,Blood Test,150.0,Recovered
+1572,1703,ECG,150.0,Recovered
+1573,276,Blood Test,150.0,Recovered
+1574,538,MRI,50.0,Admitted
+1575,740,Blood Test,75.0,Recovered
+1576,137,Blood Test,100.0,Admitted
+1577,81,Consultation,,Recovered
+1578,1259,Consultation,50.0,Admitted
+1579,1558,Consultation,200.0,Recovered
+1580,504,MRI,75.0,Admitted
+1581,1269,X-Ray,75.0,Recovered
+1582,611,Blood Test,50.0,Recovered
+1583,1945,Physiotherapy,75.0,Follow-up
+1584,1746,Consultation,,Recovered
+1585,860,Consultation,200.0,Recovered
+1586,945,Blood Test,,Recovered
+1587,657,Blood Test,100.0,Follow-up
+1588,228,ECG,,Follow-up
+1589,1702,Consultation,150.0,Follow-up
+1590,1783,X-Ray,150.0,Follow-up
+1591,448,ECG,200.0,Admitted
+1592,1924,MRI,50.0,Recovered
+1593,1173,MRI,75.0,Follow-up
+1594,356,X-Ray,100.0,Follow-up
+1595,185,Blood Test,150.0,Admitted
+1596,301,X-Ray,,Recovered
+1597,422,X-Ray,150.0,Recovered
+1598,26,ECG,200.0,Follow-up
+1599,580,ECG,50.0,Follow-up
+1600,614,X-Ray,75.0,Admitted

@@ -1,0 +1,7 @@
+DepartmentID,DepartmentName,TargetWaitingTime
+1,Emergency,30
+2,Cardiology,20
+3,Radiology,25
+4,Paediatrics,20
+5,Orthopaedics,25
+6,Outpatient,15
